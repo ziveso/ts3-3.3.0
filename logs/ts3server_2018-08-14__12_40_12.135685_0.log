@@ -1,0 +1,24 @@
+﻿2018-08-14 12:40:12.135749|INFO    |ServerLibPriv |   |TeamSpeak 3 Server 3.3.0 (2018-07-31 16:10:01)
+2018-08-14 12:40:12.180279|INFO    |ServerLibPriv |   |SystemInformation: Linux 4.15.0-1008-gcp #8-Ubuntu SMP Thu May 17 08:10:14 UTC 2018 x86_64 Binary: 64bit
+2018-08-14 12:40:12.180338|INFO    |ServerLibPriv |   |Using hardware aes
+2018-08-14 12:40:12.193835|INFO    |DatabaseQuery |   |dbPlugin name:    SQLite3 plugin, Version 3, (c)TeamSpeak Systems GmbH
+2018-08-14 12:40:12.193921|INFO    |DatabaseQuery |   |dbPlugin version: 3.11.1
+2018-08-14 12:40:12.219481|INFO    |DatabaseQuery |   |checking database integrity (may take a while)
+2018-08-14 12:40:12.322383|INFO    |SQL           |   |database updated successfully to revision: 27
+2018-08-14 12:40:12.345570|INFO    |SQL           |   |database updated successfully to revision: 28
+2018-08-14 12:40:12.348430|INFO    |SQL           |   |database updated successfully to revision: 29
+2018-08-14 12:40:12.349411|INFO    |DatabaseQuery |   |database busy, waiting for finishing index tasks, may take some time!
+2018-08-14 12:40:52.432632|WARNING |Accounting    |   |Unable to open licensekey.dat, falling back to limited functionality
+2018-08-14 12:40:52.502698|INFO    |Accounting    |   |Licensing Information
+2018-08-14 12:40:52.502777|INFO    |Accounting    |   |licensed to       : Anonymous
+2018-08-14 12:40:52.502791|INFO    |Accounting    |   |type              : No License
+2018-08-14 12:40:52.502813|INFO    |Accounting    |   |starting date     : Sun Jul  1 00:00:00 2018
+2018-08-14 12:40:52.502824|INFO    |Accounting    |   |ending date       : Wed Jul 31 00:00:00 2019
+2018-08-14 12:40:52.502834|INFO    |Accounting    |   |max virtualservers: 1
+2018-08-14 12:40:52.502843|INFO    |Accounting    |   |max slots         : 32
+2018-08-14 12:40:52.691829|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2018-08-14 12:40:53.821625|INFO    |              |   |Puzzle precompute time: 1295
+2018-08-14 12:40:53.822213|INFO    |FileManager   |   |listening on 0.0.0.0:30033, [::]:30033
+2018-08-14 12:40:53.849694|INFO    |Query         |   |listening for query on 0.0.0.0:10011, [::]:10011
+2018-08-14 12:40:53.849809|INFO    |CIDRManager   |   |updated query_ip_whitelist ips: 127.0.0.1/32, ::1/128, 
+2018-08-14 12:41:00.649923|INFO    |ServerMain    |   |Received signal SIGTERM, shutting down.

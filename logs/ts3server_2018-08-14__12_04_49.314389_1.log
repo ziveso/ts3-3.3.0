@@ -1,0 +1,8 @@
+﻿2018-08-14 12:04:51.123692|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987, [::]:9987
+2018-08-14 12:04:51.124329|WARNING |VirtualServer |1  |--------------------------------------------------------
+2018-08-14 12:04:51.124356|WARNING |VirtualServer |1  |ServerAdmin privilege key created, please use the line below
+2018-08-14 12:04:51.124366|WARNING |VirtualServer |1  |token=cz7iunYD2ANvHeNEgORFFDrDaurmbDNJPwIHai1W
+2018-08-14 12:04:51.124376|WARNING |VirtualServer |1  |--------------------------------------------------------
+2018-08-14 12:05:07.823001|INFO    |VirtualServer |1  |client (id:9) was added to servergroup 'Server Admin'(id:6) by client 'server'(id:0)
+2018-08-14 12:05:07.824036|INFO    |VirtualServer |1  |client 'ZivesO'(id:9) used privilege key 'cz7iunYD2ANvHeNEgORFFDrDaurmbDNJPwIHai1W' and was added to servergroup 'Server Admin'(id:6)
+2018-08-14 12:08:35.401111|INFO    |VirtualServerBase|1  |stopped
