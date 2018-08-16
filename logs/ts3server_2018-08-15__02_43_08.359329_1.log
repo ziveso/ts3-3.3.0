@@ -1,1 +1,7 @@
 ﻿2018-08-15 02:43:50.742159|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987, [::]:9987
+2018-08-15 04:17:03.723230|INFO    |PktHandler    |1  |Dropping client 1 because of ping timeout 19 0 0
+2018-08-15 07:12:46.436602|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:144) with values (value:1639401755) was added by 'Poนด์'(id:7) to channel 'Monster Hunter: World'(id:53)
+2018-08-15 07:13:32.502786|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:144) with values (value:-870609412) was added by 'Poนด์'(id:7) to channel 'Monster Hunter: World'(id:53)
+2018-08-15 17:30:56.565679|INFO    |PktHandler    |1  |Dropping client 18 because of ping timeout 19 0 0
+2018-08-15 19:37:51.068295|INFO    |PktHandler    |1  |Dropping client 21 because of ping timeout 19 0 0
+2018-08-15 21:58:04.662806|INFO    |PktHandler    |1  |Dropping client 3 because of ping timeout 19 0 0
