@@ -5,3 +5,8 @@
 2018-08-15 17:30:56.565679|INFO    |PktHandler    |1  |Dropping client 18 because of ping timeout 19 0 0
 2018-08-15 19:37:51.068295|INFO    |PktHandler    |1  |Dropping client 21 because of ping timeout 19 0 0
 2018-08-15 21:58:04.662806|INFO    |PktHandler    |1  |Dropping client 3 because of ping timeout 19 0 0
+2018-08-16 08:37:45.202783|INFO    |PktHandler    |1  |Dropping client 5 because of ping timeout 19 0 0
+2018-08-16 12:57:59.355726|INFO    |VirtualServer |1  |client (id:293) was added to servergroup 'Monkas'(id:6) by client 'MuffinnnZzzz ●﹏●'(id:17)
+2018-08-16 14:49:09.557669|INFO    |PktHandler    |1  |Dropping client 11 because of ping timeout 19 0 0
+2018-08-16 14:51:23.374999|INFO    |PktHandler    |1  |Cleaning up connection because of 2 resends of COMMAND packet
+2018-08-16 14:51:23.375135|INFO    |PktHandler    |1  |Dropping client 19 because of resend timeout
