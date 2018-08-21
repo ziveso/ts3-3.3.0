@@ -30,3 +30,10 @@
 2018-08-19 05:22:01.242098|INFO    |PktHandler    |1  |Dropping client 1 because of ping timeout 19 0 0
 2018-08-19 08:55:57.436878|INFO    |PktHandler    |1  |Dropping client 10 because of ping timeout 19 0 0
 2018-08-19 14:48:24.763899|INFO    |PktHandler    |1  |Dropping client 1 because of ping timeout 19 0 0
+2018-08-20 03:13:46.450594|INFO    |PktHandler    |1  |Dropping client 2 because of ping timeout 19 0 0
+2018-08-20 09:22:26.755674|INFO    |PktHandler    |1  |Dropping client 13 because of ping timeout 19 0 0
+2018-08-20 10:56:42.434496|INFO    |PktHandler    |1  |Dropping client 19 because of ping timeout 19 0 0
+2018-08-20 13:23:02.172667|INFO    |PktHandler    |1  |Dropping client 27 because of ping timeout 19 0 0
+2018-08-20 14:35:09.762491|INFO    |PktHandler    |1  |Dropping client 4 because of ping timeout 19 0 0
+2018-08-20 16:52:05.237345|INFO    |VirtualServer |1  |permission 'b_channel_join_permanent'(id:133) with values (value:1, negated:0, skipchannel:1) was added by 'ZivesO'(id:270) to servergroup 'Guest'(id:8)
+2018-08-20 17:07:58.827064|INFO    |VirtualServer |1  |client (id:298) was added to servergroup 'Antipass'(id:9) by client 'Lüthièn'(id:16)
