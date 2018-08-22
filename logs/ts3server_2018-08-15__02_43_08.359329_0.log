@@ -655,3 +655,523 @@
 2018-08-21 03:09:34.508084|ERROR   |              |   |TS3ANetwork::Send failed error: 111
 2018-08-21 03:09:36.004178|ERROR   |              |   |TS3ANetwork::Send failed error: 111
 2018-08-21 03:09:38.004173|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 03:19:34.608326|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 03:19:36.014609|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 03:19:38.004156|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 03:29:34.512058|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 03:29:36.004159|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 03:29:38.015992|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 03:39:34.638006|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 03:39:36.004165|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 03:39:38.004167|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 03:49:34.671556|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 03:49:36.004159|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 03:49:38.004163|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 03:59:34.758481|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 03:59:36.014968|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 03:59:38.004167|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 04:09:34.694580|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 04:09:36.004161|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 04:09:38.014902|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 04:19:34.775632|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 04:19:36.000174|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 04:19:38.004161|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 04:29:34.798388|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 04:29:36.004160|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 04:29:38.004164|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 04:39:34.875591|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 04:39:36.009651|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 04:39:38.004167|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 04:49:34.878602|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 04:49:36.004157|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 04:49:38.012685|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 04:59:34.976111|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 04:59:36.004159|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 04:59:38.004159|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 05:09:35.036572|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 05:09:37.004165|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 05:09:39.004165|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 05:19:35.030094|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 05:19:37.008775|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 05:19:39.004163|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 05:29:35.050342|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 05:29:35.058594|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3417122722": No such file or directory
+2018-08-21 05:29:37.004166|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 05:29:39.013003|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 05:39:35.091026|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 05:39:37.004227|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 05:39:39.004161|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 05:49:35.116095|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 05:49:37.004158|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 05:49:39.004162|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 05:59:35.131269|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 05:59:37.009528|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 05:59:39.004155|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 06:09:35.217119|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 06:09:37.004160|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 06:09:39.012869|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 06:09:51.447963|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3417122722": No such file or directory
+2018-08-21 06:09:52.278588|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3417122722": No such file or directory
+2018-08-21 06:09:54.796834|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3417122722": No such file or directory
+2018-08-21 06:09:55.294830|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3417122722": No such file or directory
+2018-08-21 06:09:57.140485|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3417122722": No such file or directory
+2018-08-21 06:09:57.764884|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3417122722": No such file or directory
+2018-08-21 06:09:58.272753|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3417122722": No such file or directory
+2018-08-21 06:09:59.312671|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3417122722": No such file or directory
+2018-08-21 06:10:00.546697|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3417122722": No such file or directory
+2018-08-21 06:10:01.708558|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3417122722": No such file or directory
+2018-08-21 06:10:05.558769|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3417122722": No such file or directory
+2018-08-21 06:10:42.326946|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3417122722": No such file or directory
+2018-08-21 06:19:35.269203|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 06:19:37.004156|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 06:19:39.004159|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 06:29:35.538989|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 06:29:37.004161|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 06:29:39.004167|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 06:39:35.550315|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 06:39:37.029469|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 06:39:39.004165|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 06:49:35.414492|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 06:49:37.004152|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 06:49:39.028007|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 06:59:35.511630|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 06:59:37.004155|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 06:59:39.004156|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 07:09:35.592913|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 07:09:37.000160|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 07:09:39.004158|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 07:19:35.671066|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 07:19:37.027463|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 07:19:39.004160|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 07:29:35.678695|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 07:29:37.004155|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 07:29:39.024366|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 07:39:09.893420|INFO    |              |   |Error opening file "files/virtualserver_1/internal/avatar_fcbnjifnkjoflbjnappbombbjglgnakjkeiclkbd": No such file or directory
+2018-08-21 07:39:35.712799|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 07:39:37.004159|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 07:39:39.004158|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 07:49:35.763692|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 07:49:37.004161|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 07:49:39.004159|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 07:59:35.770622|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 07:59:37.012388|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 07:59:39.004157|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 08:09:35.872635|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 08:09:37.004157|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 08:09:39.012583|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 08:19:35.969237|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 08:19:37.004154|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 08:19:39.004160|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 08:29:35.940636|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 08:29:37.004155|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 08:29:39.004160|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 08:39:35.994752|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 08:39:37.010644|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 08:39:39.004160|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 08:49:36.086550|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 08:49:38.010193|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 08:49:40.004164|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 08:59:12.354056|INFO    |              |   |Error opening file "files/virtualserver_1/internal/avatar_fcbnjifnkjoflbjnappbombbjglgnakjkeiclkbd": No such file or directory
+2018-08-21 08:59:36.106224|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 08:59:38.004162|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 08:59:40.013332|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 09:09:36.367857|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 09:09:38.004163|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 09:09:40.004157|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 09:19:36.342006|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 09:19:38.004160|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 09:19:40.004157|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 09:20:59.683287|INFO    |              |   |Error opening file "files/virtualserver_1/internal/avatar_fcbnjifnkjoflbjnappbombbjglgnakjkeiclkbd": No such file or directory
+2018-08-21 09:29:36.329306|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 09:29:38.021118|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 09:29:40.004158|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 09:39:36.343406|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 09:39:38.004161|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 09:39:40.025959|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 09:49:36.363092|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 09:49:38.004158|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 09:49:40.004162|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 09:59:36.474783|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 09:59:38.000177|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 09:59:40.004157|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 10:09:36.561022|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 10:09:38.024865|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 10:09:40.004163|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 10:19:36.483530|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 10:19:38.004161|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 10:19:40.014111|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 10:29:36.669006|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 10:29:38.004157|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 10:29:40.004158|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 10:39:36.694639|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 10:39:38.004154|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 10:39:40.004159|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 10:49:36.623814|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 10:49:38.016301|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 10:49:40.004162|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 10:59:36.632386|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 10:59:38.004161|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 10:59:40.015015|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 11:09:36.649496|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 11:09:38.004160|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 11:09:40.004157|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 11:19:36.752649|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 11:19:38.004160|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 11:19:40.004157|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 11:29:36.843766|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 11:29:38.013888|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 11:29:40.004163|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 11:39:36.845521|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 11:39:38.004161|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 11:39:40.014513|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 11:49:36.961293|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 11:49:38.004158|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 11:49:40.004154|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 11:59:36.926945|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 11:59:38.004173|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 11:59:40.004174|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 12:06:51.271394|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_4199757973": No such file or directory
+2018-08-21 12:06:51.271479|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_913662668": No such file or directory
+2018-08-21 12:06:51.271598|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_345037176": No such file or directory
+2018-08-21 12:06:51.271617|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2502700652": No such file or directory
+2018-08-21 12:06:51.365692|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3417122722": No such file or directory
+2018-08-21 12:06:52.780258|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_1297365456": No such file or directory
+2018-08-21 12:06:52.814696|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2864191618": No such file or directory
+2018-08-21 12:06:52.814820|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_95679974": No such file or directory
+2018-08-21 12:06:52.827828|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_651332214": No such file or directory
+2018-08-21 12:06:52.827969|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3610718123": No such file or directory
+2018-08-21 12:06:52.881049|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_871106730": No such file or directory
+2018-08-21 12:06:52.881308|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_403127093": No such file or directory
+2018-08-21 12:06:52.881380|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_916649827": No such file or directory
+2018-08-21 12:06:53.108535|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_1968538709": No such file or directory
+2018-08-21 12:09:36.911584|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 12:09:38.013538|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 12:09:40.004158|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 12:19:36.929464|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 12:19:38.004173|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 12:19:40.014012|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 12:29:37.073419|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 12:29:39.004163|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 12:29:41.013568|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 12:39:37.137353|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 12:39:39.004163|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 12:39:41.004175|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 12:49:37.138755|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 12:49:39.000160|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 12:49:41.004158|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 12:59:37.286174|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 12:59:39.013076|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 12:59:41.004155|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 13:05:17.228196|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3417122722": No such file or directory
+2018-08-21 13:09:37.230215|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 13:09:39.004159|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 13:09:41.013679|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 13:19:37.300534|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 13:19:39.004167|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 13:19:41.004164|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 13:29:37.375136|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 13:29:39.004157|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 13:29:41.004159|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 13:39:37.455556|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 13:39:39.011382|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 13:39:41.004159|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 13:49:37.469367|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 13:49:39.004154|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 13:49:41.012826|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 13:59:37.524953|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 13:59:39.004156|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 13:59:41.004161|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 14:09:37.585112|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 14:09:39.004156|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 14:09:41.004161|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 14:16:17.583770|INFO    |              |   |Error opening file "files/virtualserver_1/internal/avatar_hnncomfdddcfjkofkknliibbolokjjeanofldahk": No such file or directory
+2018-08-21 14:16:17.711647|INFO    |              |   |Error opening file "files/virtualserver_1/internal/avatar_hnncomfdddcfjkofkknliibbolokjjeanofldahk": No such file or directory
+2018-08-21 14:16:17.883730|INFO    |              |   |Error opening file "files/virtualserver_1/internal/avatar_hnncomfdddcfjkofkknliibbolokjjeanofldahk": No such file or directory
+2018-08-21 14:16:18.005607|INFO    |              |   |Error opening file "files/virtualserver_1/internal/avatar_hnncomfdddcfjkofkknliibbolokjjeanofldahk": No such file or directory
+2018-08-21 14:16:18.304775|INFO    |              |   |Error opening file "files/virtualserver_1/internal/avatar_aappiplgnopghljfacbbomjkakikjpgnmcphokaf": No such file or directory
+2018-08-21 14:19:37.571321|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 14:19:39.017865|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 14:19:41.004159|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 14:29:37.647245|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 14:29:39.004154|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 14:29:41.011823|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 14:39:37.681673|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 14:39:39.004156|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 14:39:41.004158|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 14:49:37.644820|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 14:49:39.004165|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 14:49:41.004167|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 14:59:37.727509|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 14:59:39.017401|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 14:59:41.004159|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 15:09:37.685436|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 15:09:39.004162|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 15:09:41.016787|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 15:19:06.415029|INFO    |              |   |Error opening file "files/virtualserver_1/internal/avatar_aappiplgnopghljfacbbomjkakikjpgnmcphokaf": No such file or directory
+2018-08-21 15:19:37.783729|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 15:19:39.004152|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 15:19:41.004160|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 15:20:49.716697|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_4199757973": No such file or directory
+2018-08-21 15:20:49.716841|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_913662668": No such file or directory
+2018-08-21 15:20:49.722445|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_345037176": No such file or directory
+2018-08-21 15:20:49.749281|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_1297365456": No such file or directory
+2018-08-21 15:20:49.822712|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3417122722": No such file or directory
+2018-08-21 15:20:49.977448|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_403127093": No such file or directory
+2018-08-21 15:20:50.743192|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2864191618": No such file or directory
+2018-08-21 15:20:50.743313|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_95679974": No such file or directory
+2018-08-21 15:20:50.743373|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_651332214": No such file or directory
+2018-08-21 15:20:50.766147|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3610718123": No such file or directory
+2018-08-21 15:20:50.766293|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_871106730": No such file or directory
+2018-08-21 15:20:51.046277|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_916649827": No such file or directory
+2018-08-21 15:20:51.046470|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_1968538709": No such file or directory
+2018-08-21 15:23:06.462123|INFO    |              |   |Error opening file "files/virtualserver_1/internal/avatar_maappgfaidmanodmonjafbajkobdokgdcjgfkcbl": No such file or directory
+2018-08-21 15:29:37.927234|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 15:29:39.004157|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 15:29:41.004154|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 15:39:38.040374|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 15:39:40.000156|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 15:39:42.004150|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 15:49:38.002769|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 15:49:39.016400|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 15:49:41.004158|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 15:59:38.086367|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 15:59:40.017500|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 15:59:42.004156|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 16:05:45.934868|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2544198930": No such file or directory
+2018-08-21 16:05:45.947396|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2544198930": No such file or directory
+2018-08-21 16:05:45.959133|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2544198930": No such file or directory
+2018-08-21 16:05:45.968779|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2544198930": No such file or directory
+2018-08-21 16:09:38.166585|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 16:09:40.004171|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 16:09:42.014918|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 16:19:38.179476|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 16:19:40.004163|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 16:19:42.004159|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 16:22:19.500325|INFO    |              |   |Error opening file "files/virtualserver_1/internal/avatar_hnncomfdddcfjkofkknliibbolokjjeanofldahk": No such file or directory
+2018-08-21 16:22:20.446582|INFO    |              |   |Error opening file "files/virtualserver_1/internal/avatar_hnncomfdddcfjkofkknliibbolokjjeanofldahk": No such file or directory
+2018-08-21 16:29:38.183194|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 16:29:40.004168|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 16:29:42.004168|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 16:34:37.372741|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3417122722": No such file or directory
+2018-08-21 16:39:38.257323|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 16:39:40.020798|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 16:39:42.004160|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 16:41:29.759720|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2502700652": No such file or directory
+2018-08-21 16:41:29.804465|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_4199757973": No such file or directory
+2018-08-21 16:41:29.805187|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_913662668": No such file or directory
+2018-08-21 16:41:29.836363|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_345037176": No such file or directory
+2018-08-21 16:41:29.853264|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3417122722": No such file or directory
+2018-08-21 16:41:29.898952|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_1297365456": No such file or directory
+2018-08-21 16:41:29.927069|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2864191618": No such file or directory
+2018-08-21 16:41:29.927532|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_95679974": No such file or directory
+2018-08-21 16:41:29.930231|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_651332214": No such file or directory
+2018-08-21 16:41:33.983346|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3610718123": No such file or directory
+2018-08-21 16:41:33.983505|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_871106730": No such file or directory
+2018-08-21 16:41:34.229499|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_403127093": No such file or directory
+2018-08-21 16:41:34.237851|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_916649827": No such file or directory
+2018-08-21 16:41:34.245853|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_1968538709": No such file or directory
+2018-08-21 16:49:38.210582|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 16:49:40.004157|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 16:49:42.014759|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 16:59:38.251679|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 16:59:40.004162|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 16:59:42.004173|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 16:59:47.206762|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_4199757973": No such file or directory
+2018-08-21 16:59:47.206890|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_913662668": No such file or directory
+2018-08-21 16:59:47.213037|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_345037176": No such file or directory
+2018-08-21 16:59:47.234740|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2502700652": No such file or directory
+2018-08-21 16:59:47.301728|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3417122722": No such file or directory
+2018-08-21 16:59:47.471445|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_403127093": No such file or directory
+2018-08-21 16:59:49.184463|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_1297365456": No such file or directory
+2018-08-21 16:59:49.438533|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2864191618": No such file or directory
+2018-08-21 16:59:49.438671|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_95679974": No such file or directory
+2018-08-21 16:59:49.463334|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_651332214": No such file or directory
+2018-08-21 16:59:49.463467|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3610718123": No such file or directory
+2018-08-21 16:59:49.463523|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_871106730": No such file or directory
+2018-08-21 16:59:50.135788|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_916649827": No such file or directory
+2018-08-21 16:59:50.167596|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_1968538709": No such file or directory
+2018-08-21 17:00:18.613414|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2502700652": No such file or directory
+2018-08-21 17:09:38.324775|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 17:09:40.004158|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 17:09:42.004157|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 17:19:38.387034|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 17:19:40.013091|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 17:19:42.004150|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 17:29:38.525482|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 17:29:40.004153|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 17:29:42.144426|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 17:39:38.417346|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 17:39:40.004176|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 17:39:42.004164|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 17:49:38.466562|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 17:49:40.004158|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 17:49:42.004159|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 17:59:38.522575|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 17:59:40.019196|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 17:59:42.004168|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 18:09:38.678960|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 18:09:40.004175|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 18:09:42.019473|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 18:19:38.680992|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 18:19:40.004164|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 18:19:42.004168|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 18:29:38.702787|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 18:29:40.000158|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 18:29:42.004154|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 18:39:38.705790|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 18:39:40.013883|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 18:39:42.004159|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 18:49:38.771362|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 18:49:40.004160|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 18:49:42.015722|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 18:59:38.861966|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 18:59:40.004166|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 18:59:42.004154|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 19:09:38.956331|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 19:09:40.004163|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 19:09:42.004163|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 19:19:39.072745|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 19:19:41.004162|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 19:19:43.004159|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 19:29:39.068752|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 19:29:41.016576|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 19:29:43.004159|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 19:39:39.066737|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 19:39:41.004156|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 19:39:43.012592|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 19:49:39.223331|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 19:49:41.004170|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 19:49:43.004169|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 19:59:39.303182|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 19:59:41.004166|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 19:59:43.004164|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 20:09:39.365003|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 20:09:41.015319|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 20:09:43.004155|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 20:19:39.441113|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 20:19:41.004168|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 20:19:43.008741|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 20:29:39.355222|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 20:29:41.004167|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 20:29:43.004171|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 20:39:39.402706|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 20:39:41.004161|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 20:39:43.004163|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 20:49:39.445118|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 20:49:41.016973|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 20:49:43.004163|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 20:59:39.516013|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 20:59:41.004162|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 20:59:43.012023|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 21:09:39.611330|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 21:09:41.004162|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 21:09:43.004171|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 21:19:39.698558|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 21:19:41.000160|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 21:19:43.004165|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 21:29:39.705165|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 21:29:41.011675|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 21:29:43.004163|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 21:39:39.783886|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 21:39:41.004150|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 21:39:43.014545|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 21:49:39.875893|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 21:49:41.004160|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 21:49:43.004166|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 21:59:39.983939|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 21:59:41.004164|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 21:59:43.004157|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 22:09:39.908905|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 22:09:41.016431|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 22:09:43.004178|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 22:19:40.005524|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 22:19:42.015224|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 22:19:44.004165|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 22:29:40.172634|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 22:29:42.004162|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 22:29:44.014226|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 22:39:40.161665|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 22:39:42.004158|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 22:39:44.004174|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 22:49:40.254544|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 22:49:42.004158|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 22:49:44.004160|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 22:59:40.346248|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 22:59:42.014705|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 22:59:44.004164|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 23:09:40.356294|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 23:09:42.004159|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 23:09:44.012680|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 23:19:40.455086|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 23:19:42.004155|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 23:19:44.004163|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 23:29:40.548835|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 23:29:42.004162|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 23:29:44.004167|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 23:39:40.587502|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 23:39:42.014594|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 23:39:44.004159|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 23:49:40.630487|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 23:49:42.004166|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 23:49:44.015439|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 23:59:40.759727|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 23:59:42.004164|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-21 23:59:44.004167|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 00:09:40.716687|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 00:09:42.000160|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 00:09:44.004169|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 00:19:40.741308|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 00:19:42.011135|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 00:19:44.004171|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 00:29:40.780720|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 00:29:42.004159|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 00:29:44.013815|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 00:39:40.877159|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 00:39:42.004166|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 00:39:44.004163|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 00:49:40.896444|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 00:49:42.004159|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 00:49:44.004168|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 00:59:40.897059|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 00:59:42.015281|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 00:59:44.004168|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 01:09:40.928213|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 01:09:42.004158|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 01:09:44.016340|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 01:19:40.997331|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 01:19:42.004162|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 01:19:44.004174|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 01:29:41.159614|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 01:29:43.004164|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 01:29:45.004161|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 01:39:41.185641|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 01:39:43.014668|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 01:39:45.004160|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 01:49:41.123450|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 01:49:43.004163|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 01:49:45.014739|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 01:59:41.221157|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 01:59:43.004162|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 01:59:45.000165|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 02:09:41.278539|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 02:09:43.004166|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 02:09:45.004163|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 02:19:41.286161|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 02:19:43.015244|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 02:19:45.004159|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 02:29:41.329893|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 02:29:43.004168|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 02:29:45.015544|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 02:39:41.483686|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 02:39:43.004162|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 02:39:45.004174|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 02:43:49.209366|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2018-08-22 02:49:41.449080|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 02:49:43.004159|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 02:49:45.004156|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 02:59:41.507542|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 02:59:43.012779|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 02:59:45.004178|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 03:09:41.557371|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 03:09:43.004161|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 03:09:45.016869|ERROR   |              |   |TS3ANetwork::Send failed error: 111

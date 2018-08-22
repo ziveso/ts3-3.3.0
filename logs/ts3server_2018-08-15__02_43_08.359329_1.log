@@ -37,3 +37,15 @@
 2018-08-20 14:35:09.762491|INFO    |PktHandler    |1  |Dropping client 4 because of ping timeout 19 0 0
 2018-08-20 16:52:05.237345|INFO    |VirtualServer |1  |permission 'b_channel_join_permanent'(id:133) with values (value:1, negated:0, skipchannel:1) was added by 'ZivesO'(id:270) to servergroup 'Guest'(id:8)
 2018-08-20 17:07:58.827064|INFO    |VirtualServer |1  |client (id:298) was added to servergroup 'Antipass'(id:9) by client 'Lüthièn'(id:16)
+2018-08-21 05:11:48.665910|INFO    |PktHandler    |1  |Dropping client 5 because of ping timeout 19 0 0
+2018-08-21 07:39:09.757766|INFO    |PktHandler    |1  |Dropping client 6 because of ping timeout 19 0 0
+2018-08-21 07:41:55.043035|INFO    |PktHandler    |1  |Dropping client 13 because of ping timeout 19 0 0
+2018-08-21 12:27:11.895228|INFO    |PktHandler    |1  |Dropping client 1 because of ping timeout 19 0 0
+2018-08-21 13:43:34.859160|INFO    |VirtualServer |1  |client (id:304) was added to servergroup 'Antipass'(id:9) by client 'Skung'(id:289)
+2018-08-21 14:35:14.924087|INFO    |PktHandler    |1  |Dropping client 19 because of ping timeout 19 0 0
+2018-08-21 16:05:45.899845|INFO    |VirtualServer |1  |client (id:67) was added to servergroup 'Normal'(id:7) by client 'Ford'(id:4)
+2018-08-21 16:05:50.436354|INFO    |VirtualServer |1  |client (id:67) was removed from servergroup 'Monkas'(id:6) by client 'Ford'(id:4)
+2018-08-21 16:06:10.718886|INFO    |VirtualServer |1  |client (id:67) was added to servergroup 'Monkas'(id:6) by client 'Ford'(id:4)
+2018-08-21 16:06:14.396537|INFO    |VirtualServer |1  |client (id:67) was removed from servergroup 'Normal'(id:7) by client 'Ford'(id:4)
+2018-08-21 16:32:21.216608|INFO    |PktHandler    |1  |Dropping client 4 because of ping timeout 19 0 0
+2018-08-21 16:53:24.293976|INFO    |PktHandler    |1  |Dropping client 18 because of ping timeout 19 0 0
