@@ -1175,3 +1175,188 @@
 2018-08-22 03:09:41.557371|ERROR   |              |   |TS3ANetwork::Send failed error: 111
 2018-08-22 03:09:43.004161|ERROR   |              |   |TS3ANetwork::Send failed error: 111
 2018-08-22 03:09:45.016869|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 03:19:41.688434|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 03:19:43.004162|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 03:19:45.004166|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 03:29:41.733282|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 03:29:43.004164|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 03:29:45.004168|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 03:39:41.663590|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 03:39:43.015137|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 03:39:45.004161|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 03:49:41.671459|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 03:49:43.004163|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 03:49:45.019478|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 03:59:41.755798|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 03:59:43.004153|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 03:59:45.004162|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 04:09:42.210720|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 04:09:44.004156|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 04:09:46.004164|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 04:19:41.882369|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 04:19:43.025112|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 04:19:45.004161|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 04:29:42.070907|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 04:29:44.022570|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 04:29:46.004167|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 04:39:42.070003|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 04:39:44.004158|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 04:39:46.027118|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 04:49:42.089532|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 04:49:44.004157|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 04:49:46.000162|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 04:59:42.227166|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 04:59:44.004158|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 04:59:46.004158|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 05:09:42.208647|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 05:09:44.029886|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 05:09:46.004165|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 05:19:42.138437|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 05:19:44.004170|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 05:19:46.019215|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 05:29:42.169880|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 05:29:44.004164|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 05:29:46.004162|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 05:39:42.198156|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 05:39:44.004162|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 05:39:46.004159|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 05:49:42.299765|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 05:49:44.014431|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 05:49:46.004164|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 05:59:42.292361|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 05:59:44.004168|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 05:59:46.029571|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 06:09:42.308214|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 06:09:44.004167|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 06:09:46.004168|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 06:19:42.343190|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 06:19:44.004157|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 06:19:46.004161|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 06:29:42.414158|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 06:29:44.102621|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 06:29:46.004166|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 06:39:42.387756|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 06:39:44.004157|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 06:39:46.029487|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 06:49:42.412046|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 06:49:44.004156|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 06:49:46.004160|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 06:59:42.499969|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 06:59:44.004153|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 06:59:46.004156|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 07:09:42.558727|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 07:09:44.031824|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 07:09:46.004165|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 07:19:42.673512|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 07:19:44.004166|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 07:19:46.026552|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 07:29:42.733449|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 07:29:44.004156|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 07:29:46.004156|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 07:39:42.667591|ERROR   |              |   |TS3ANetwork::Send failed error: 111
+2018-08-22 08:35:33.075092|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3417122722": No such file or directory
+2018-08-22 12:01:33.014929|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_4199757973": No such file or directory
+2018-08-22 12:01:33.014999|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_913662668": No such file or directory
+2018-08-22 12:01:33.020689|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_345037176": No such file or directory
+2018-08-22 12:01:33.043543|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2502700652": No such file or directory
+2018-08-22 12:01:33.285849|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_1297365456": No such file or directory
+2018-08-22 12:01:34.392539|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3417122722": No such file or directory
+2018-08-22 12:01:34.472169|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2864191618": No such file or directory
+2018-08-22 12:01:34.674695|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_95679974": No such file or directory
+2018-08-22 12:01:34.674931|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_651332214": No such file or directory
+2018-08-22 12:01:34.675007|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3610718123": No such file or directory
+2018-08-22 12:01:34.689903|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_871106730": No such file or directory
+2018-08-22 12:01:34.690075|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_403127093": No such file or directory
+2018-08-22 12:01:34.719110|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_916649827": No such file or directory
+2018-08-22 12:01:34.720024|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_1968538709": No such file or directory
+2018-08-22 12:50:43.984083|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_4199757973": No such file or directory
+2018-08-22 12:50:43.997546|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_913662668": No such file or directory
+2018-08-22 12:50:43.997644|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_345037176": No such file or directory
+2018-08-22 12:50:44.033099|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3417122722": No such file or directory
+2018-08-22 12:50:44.130105|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2502700652": No such file or directory
+2018-08-22 12:50:53.930436|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_4104341591": No such file or directory
+2018-08-22 12:50:53.945750|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_1297365456": No such file or directory
+2018-08-22 12:51:06.593968|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2864191618": No such file or directory
+2018-08-22 12:51:06.617471|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_95679974": No such file or directory
+2018-08-22 12:51:06.633738|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_651332214": No such file or directory
+2018-08-22 12:51:06.703367|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3610718123": No such file or directory
+2018-08-22 12:51:06.703587|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_871106730": No such file or directory
+2018-08-22 12:51:06.774733|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_403127093": No such file or directory
+2018-08-22 12:51:06.777372|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_916649827": No such file or directory
+2018-08-22 12:51:06.884624|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_1968538709": No such file or directory
+2018-08-22 12:57:51.568962|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3417122722": No such file or directory
+2018-08-22 14:24:59.573541|INFO    |              |   |Error opening file "files/virtualserver_1/internal/avatar_fcbnjifnkjoflbjnappbombbjglgnakjkeiclkbd": No such file or directory
+2018-08-22 14:34:52.790392|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_4199757973": No such file or directory
+2018-08-22 14:34:52.790524|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_913662668": No such file or directory
+2018-08-22 14:34:52.792418|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_345037176": No such file or directory
+2018-08-22 14:34:52.875215|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3417122722": No such file or directory
+2018-08-22 14:34:52.885817|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2502700652": No such file or directory
+2018-08-22 14:34:55.127856|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_1297365456": No such file or directory
+2018-08-22 14:34:55.168091|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2864191618": No such file or directory
+2018-08-22 14:34:55.187553|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_95679974": No such file or directory
+2018-08-22 14:34:55.188071|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_651332214": No such file or directory
+2018-08-22 14:34:55.190438|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3610718123": No such file or directory
+2018-08-22 14:34:55.282886|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_871106730": No such file or directory
+2018-08-22 14:34:55.285849|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_403127093": No such file or directory
+2018-08-22 14:34:55.397854|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_916649827": No such file or directory
+2018-08-22 14:34:55.753718|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_1968538709": No such file or directory
+2018-08-22 14:35:10.727202|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_4104341591": No such file or directory
+2018-08-22 14:37:41.662480|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_4104341591": No such file or directory
+2018-08-22 15:33:26.835554|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2502700652": No such file or directory
+2018-08-22 15:33:26.888584|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_4199757973": No such file or directory
+2018-08-22 15:33:26.890693|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_913662668": No such file or directory
+2018-08-22 15:33:26.909002|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_345037176": No such file or directory
+2018-08-22 15:33:26.911442|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3417122722": No such file or directory
+2018-08-22 15:33:26.957467|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_1297365456": No such file or directory
+2018-08-22 15:33:26.968166|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2864191618": No such file or directory
+2018-08-22 15:33:26.968351|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_95679974": No such file or directory
+2018-08-22 15:33:26.979716|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_651332214": No such file or directory
+2018-08-22 15:33:30.046948|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_403127093": No such file or directory
+2018-08-22 15:33:30.313024|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3610718123": No such file or directory
+2018-08-22 15:33:30.313637|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_871106730": No such file or directory
+2018-08-22 15:33:31.224805|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_916649827": No such file or directory
+2018-08-22 15:33:31.225280|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_1968538709": No such file or directory
+2018-08-22 15:44:16.341258|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_4199757973": No such file or directory
+2018-08-22 15:44:16.343129|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_913662668": No such file or directory
+2018-08-22 15:44:16.355197|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_345037176": No such file or directory
+2018-08-22 15:44:16.398935|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2502700652": No such file or directory
+2018-08-22 15:44:16.429193|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3417122722": No such file or directory
+2018-08-22 15:44:16.449456|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_1297365456": No such file or directory
+2018-08-22 15:44:16.451765|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2864191618": No such file or directory
+2018-08-22 15:44:16.451883|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_95679974": No such file or directory
+2018-08-22 15:44:16.545071|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_651332214": No such file or directory
+2018-08-22 15:44:16.545213|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3610718123": No such file or directory
+2018-08-22 15:44:16.643305|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_403127093": No such file or directory
+2018-08-22 17:16:07.177351|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_1297365456": No such file or directory
+2018-08-22 17:16:07.177588|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_403127093": No such file or directory
+2018-08-22 17:16:07.177653|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_916649827": No such file or directory
+2018-08-22 17:16:07.177750|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_1968538709": No such file or directory
+2018-08-22 17:16:07.180252|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2502700652": No such file or directory
+2018-08-22 17:16:07.314138|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_345037176": No such file or directory
+2018-08-22 17:16:07.930362|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3610718123": No such file or directory
+2018-08-22 17:16:07.930831|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_871106730": No such file or directory
+2018-08-22 17:16:10.641010|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_651332214": No such file or directory
+2018-08-22 17:16:10.664697|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_95679974": No such file or directory
+2018-08-22 17:16:10.696671|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2864191618": No such file or directory
+2018-08-22 17:16:10.816729|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_913662668": No such file or directory
+2018-08-22 17:16:10.889162|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3417122722": No such file or directory
+2018-08-22 17:16:11.001102|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_4199757973": No such file or directory
+2018-08-22 17:19:07.406352|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_403127093": No such file or directory
+2018-08-22 17:19:07.408466|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2502700652": No such file or directory
+2018-08-22 17:19:07.414296|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_4199757973": No such file or directory
+2018-08-22 17:19:07.416582|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_913662668": No such file or directory
+2018-08-22 17:19:07.422277|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_345037176": No such file or directory
+2018-08-22 17:19:07.580269|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3417122722": No such file or directory
+2018-08-22 17:19:07.582189|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_1297365456": No such file or directory
+2018-08-22 17:21:15.337687|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3417122722": No such file or directory
+2018-08-22 17:57:55.354670|INFO    |              |   |Error opening file "files/virtualserver_1/internal/avatar_hnncomfdddcfjkofkknliibbolokjjeanofldahk": No such file or directory
+2018-08-22 18:25:34.839157|INFO    |              |   |Error opening file "files/virtualserver_1/internal/avatar_hnncomfdddcfjkofkknliibbolokjjeanofldahk": No such file or directory
+2018-08-22 18:53:15.633312|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2502700652": No such file or directory
+2018-08-22 18:53:15.634027|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_403127093": No such file or directory
+2018-08-22 18:53:15.634113|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_4199757973": No such file or directory
+2018-08-22 18:53:15.634169|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_913662668": No such file or directory
+2018-08-22 18:53:15.634217|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_345037176": No such file or directory
+2018-08-22 18:53:15.777793|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3417122722": No such file or directory
+2018-08-22 18:53:15.777917|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_1297365456": No such file or directory
+2018-08-22 18:53:15.778046|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2864191618": No such file or directory
+2018-08-23 02:43:49.630643|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated

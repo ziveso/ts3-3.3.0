@@ -49,3 +49,14 @@
 2018-08-21 16:06:14.396537|INFO    |VirtualServer |1  |client (id:67) was removed from servergroup 'Normal'(id:7) by client 'Ford'(id:4)
 2018-08-21 16:32:21.216608|INFO    |PktHandler    |1  |Dropping client 4 because of ping timeout 19 0 0
 2018-08-21 16:53:24.293976|INFO    |PktHandler    |1  |Dropping client 18 because of ping timeout 19 0 0
+2018-08-22 05:12:00.259893|INFO    |PktHandler    |1  |Dropping client 17 because of ping timeout 19 0 0
+2018-08-22 07:14:58.757639|INFO    |PktHandler    |1  |Dropping client 8 because of ping timeout 19 0 0
+2018-08-22 08:46:34.780229|INFO    |PktHandler    |1  |Cleaning up connection because of 13 resends of COMMAND packet
+2018-08-22 08:46:34.780405|INFO    |PktHandler    |1  |Dropping client 12 because of resend timeout
+2018-08-22 10:24:15.516612|INFO    |PktHandler    |1  |Dropping client 16 because of ping timeout 19 0 0
+2018-08-22 13:49:02.019359|INFO    |PktHandler    |1  |Dropping client 26 because of ping timeout 19 0 0
+2018-08-22 14:30:29.343030|INFO    |PktHandler    |1  |Dropping client 22 because of ping timeout 19 0 0
+2018-08-22 14:37:05.002464|INFO    |PktHandler    |1  |Dropping client 18 because of ping timeout 19 0 0
+2018-08-22 14:37:11.241007|INFO    |VirtualServer |1  |permission 'i_needed_modify_power_channel_join_permanent'(id:32901) with values (value:75, negated:0, skipchannel:0) was added by 'ZivesO'(id:270) to servergroup 'Guest'(id:8)
+2018-08-22 14:55:51.011097|INFO    |PktHandler    |1  |Dropping client 28 because of ping timeout 19 0 0
+2018-08-22 18:52:55.607125|INFO    |PktHandler    |1  |Dropping client 4 because of ping timeout 19 0 0
