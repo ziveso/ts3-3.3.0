@@ -60,3 +60,21 @@
 2018-08-22 14:37:11.241007|INFO    |VirtualServer |1  |permission 'i_needed_modify_power_channel_join_permanent'(id:32901) with values (value:75, negated:0, skipchannel:0) was added by 'ZivesO'(id:270) to servergroup 'Guest'(id:8)
 2018-08-22 14:55:51.011097|INFO    |PktHandler    |1  |Dropping client 28 because of ping timeout 19 0 0
 2018-08-22 18:52:55.607125|INFO    |PktHandler    |1  |Dropping client 4 because of ping timeout 19 0 0
+2018-08-23 05:12:13.032904|INFO    |PktHandler    |1  |Dropping client 15 because of ping timeout 19 0 0
+2018-08-23 06:42:59.492733|INFO    |PktHandler    |1  |Cleaning up connection because of 11 resends of COMMAND packet
+2018-08-23 06:42:59.562968|INFO    |PktHandler    |1  |Dropping client 4 because of resend timeout
+2018-08-23 06:44:09.428303|INFO    |PktHandler    |1  |Dropping client 7 because of ping timeout 19 0 0
+2018-08-23 12:14:01.927890|INFO    |PktHandler    |1  |Dropping client 16 because of ping timeout 19 0 0
+2018-08-23 12:15:12.549065|INFO    |PktHandler    |1  |Cleaning up connection because of 9 resends of COMMAND packet
+2018-08-23 12:15:12.549169|INFO    |PktHandler    |1  |Dropping client 17 because of resend timeout
+2018-08-23 12:18:11.754275|INFO    |PktHandler    |1  |Cleaning up connection because of 9 resends of COMMAND packet
+2018-08-23 12:18:11.754374|INFO    |PktHandler    |1  |Dropping client 18 because of resend timeout
+2018-08-23 12:19:30.484493|INFO    |PktHandler    |1  |Dropping client 19 because of ping timeout 19 0 0
+2018-08-23 13:10:57.624271|INFO    |PktHandler    |1  |Cleaning up connection because of 8 resends of COMMAND packet
+2018-08-23 13:10:57.624361|INFO    |PktHandler    |1  |Dropping client 14 because of resend timeout
+2018-08-23 14:36:28.073071|INFO    |PktHandler    |1  |Dropping client 20 because of ping timeout 19 0 0
+2018-08-23 14:37:04.941048|INFO    |PktHandler    |1  |Cleaning up connection because of 13 resends of COMMAND packet
+2018-08-23 14:37:04.941197|INFO    |PktHandler    |1  |Dropping client 11 because of resend timeout
+2018-08-23 16:32:20.258266|INFO    |PktHandler    |1  |Dropping client 26 because of ping timeout 19 0 0
+2018-08-23 18:24:48.058662|INFO    |VirtualServer |1  |client (id:310) was added to servergroup 'Antipass'(id:9) by client 'Skung'(id:289)
+2018-08-23 20:45:01.666083|INFO    |PktHandler    |1  |Dropping client 3 because of ping timeout 19 0 0
