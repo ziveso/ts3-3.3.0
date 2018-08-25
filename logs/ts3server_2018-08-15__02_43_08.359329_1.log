@@ -78,3 +78,10 @@
 2018-08-23 16:32:20.258266|INFO    |PktHandler    |1  |Dropping client 26 because of ping timeout 19 0 0
 2018-08-23 18:24:48.058662|INFO    |VirtualServer |1  |client (id:310) was added to servergroup 'Antipass'(id:9) by client 'Skung'(id:289)
 2018-08-23 20:45:01.666083|INFO    |PktHandler    |1  |Dropping client 3 because of ping timeout 19 0 0
+2018-08-24 05:12:23.009465|INFO    |PktHandler    |1  |Dropping client 5 because of ping timeout 19 0 0
+2018-08-24 09:39:15.717088|INFO    |PktHandler    |1  |Dropping client 9 because of ping timeout 19 0 0
+2018-08-24 12:16:48.653781|INFO    |PktHandler    |1  |Dropping client 8 because of ping timeout 19 0 0
+2018-08-24 13:07:00.865269|INFO    |PktHandler    |1  |Dropping client 1 because of ping timeout 19 0 0
+2018-08-24 14:31:38.812621|INFO    |PktHandler    |1  |Dropping client 26 because of ping timeout 19 0 0
+2018-08-24 16:01:02.312810|INFO    |PktHandler    |1  |Dropping client 22 because of ping timeout 19 0 0
+2018-08-24 16:48:10.497354|INFO    |PktHandler    |1  |Dropping client 27 because of ping timeout 19 0 0
