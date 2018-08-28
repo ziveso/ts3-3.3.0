@@ -98,3 +98,15 @@
 2018-08-26 09:58:13.301671|INFO    |VirtualServer |1  |client (id:316) was added to servergroup 'Antipass'(id:9) by client 'Lüthièn'(id:16)
 2018-08-26 10:03:32.775795|INFO    |PktHandler    |1  |Dropping client 16 because of ping timeout 19 0 0
 2018-08-26 14:26:09.205419|INFO    |PktHandler    |1  |Dropping client 23 because of ping timeout 19 0 0
+2018-08-27 05:13:03.244975|INFO    |PktHandler    |1  |Dropping client 2 because of ping timeout 19 0 0
+2018-08-27 12:48:46.565461|INFO    |PktHandler    |1  |Dropping client 14 because of ping timeout 19 0 0
+2018-08-27 14:05:08.858173|INFO    |VirtualServer |1  |client (id:14) was added to servergroup 'God'(id:10) by client 'Merodachs'(id:14)
+2018-08-27 14:05:19.566001|INFO    |VirtualServer |1  |client (id:319) was added to servergroup 'Normal'(id:7) by client 'Merodachs'(id:14)
+2018-08-27 14:05:24.223450|INFO    |VirtualServer |1  |client (id:320) was added to servergroup 'Normal'(id:7) by client 'Merodachs'(id:14)
+2018-08-27 14:11:33.456029|INFO    |VirtualServer |1  |client (id:321) was added to servergroup 'Normal'(id:7) by client 'Merodachs'(id:14)
+2018-08-27 14:12:18.558562|INFO    |PktHandler    |1  |Dropping client 27 because of ping timeout 19 0 0
+2018-08-27 14:18:51.288864|INFO    |PktHandler    |1  |Dropping client 9 because of ping timeout 19 0 0
+2018-08-27 14:25:33.968554|INFO    |PktHandler    |1  |Dropping client 26 because of ping timeout 19 0 0
+2018-08-27 14:38:43.325445|INFO    |PktHandler    |1  |Dropping client 11 because of ping timeout 19 0 0
+2018-08-27 16:32:34.548243|INFO    |PktHandler    |1  |Dropping client 8 because of ping timeout 19 0 0
+2018-08-27 23:21:01.552059|INFO    |PktHandler    |1  |Dropping client 43 because of ping timeout 19 0 0
