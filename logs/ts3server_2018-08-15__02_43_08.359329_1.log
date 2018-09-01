@@ -147,3 +147,7 @@
 2018-08-30 14:29:35.612722|INFO    |PktHandler    |1  |Dropping client 22 because of ping timeout 19 0 0
 2018-08-30 14:40:08.763338|INFO    |PktHandler    |1  |Dropping client 4 because of ping timeout 19 0 0
 2018-08-30 14:48:24.707942|INFO    |PktHandler    |1  |Dropping client 24 because of ping timeout 19 0 0
+2018-08-31 09:33:53.769064|INFO    |VirtualServer |1  |client (id:332) was added to servergroup 'Monkas'(id:6) by client 'Ford'(id:4)
+2018-08-31 14:33:34.335866|INFO    |PktHandler    |1  |Dropping client 26 because of ping timeout 19 0 0
+2018-08-31 14:40:12.118818|INFO    |PktHandler    |1  |Dropping client 7 because of ping timeout 19 0 0
+2018-08-31 17:00:29.379894|INFO    |PktHandler    |1  |Dropping client 24 because of ping timeout 19 0 0
