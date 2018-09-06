@@ -172,3 +172,17 @@
 2018-09-04 14:57:50.702651|INFO    |PktHandler    |1  |Dropping client 11 because of ping timeout 19 0 0
 2018-09-04 17:31:03.280196|INFO    |PktHandler    |1  |Dropping client 34 because of ping timeout 19 0 0
 2018-09-04 17:33:05.509547|INFO    |PktHandler    |1  |Dropping client 15 because of ping timeout 19 0 0
+2018-09-05 04:57:06.383856|INFO    |PktHandler    |1  |Dropping client 13 because of ping timeout 19 0 0
+2018-09-05 09:18:01.374569|INFO    |PktHandler    |1  |Dropping client 13 because of ping timeout 19 0 0
+2018-09-05 12:05:24.233610|INFO    |PktHandler    |1  |Dropping client 12 because of ping timeout 19 0 0
+2018-09-05 13:06:42.368744|INFO    |PktHandler    |1  |Dropping client 9 because of ping timeout 19 0 0
+2018-09-05 13:23:48.286891|INFO    |PktHandler    |1  |Dropping client 10 because of ping timeout 19 0 0
+2018-09-05 15:09:16.829995|INFO    |PktHandler    |1  |Cleaning up connection because of 6 resends of COMMAND packet
+2018-09-05 15:09:16.830087|INFO    |PktHandler    |1  |Dropping client 26 because of resend timeout
+2018-09-05 15:19:55.398491|INFO    |PktHandler    |1  |Dropping client 3 because of ping timeout 19 0 0
+2018-09-05 15:43:15.855544|INFO    |PktHandler    |1  |Dropping client 12 because of ping timeout 19 0 0
+2018-09-05 17:04:20.920268|INFO    |PktHandler    |1  |Dropping client 5 because of ping timeout 19 0 0
+2018-09-05 18:02:36.809978|INFO    |PktHandler    |1  |Dropping client 35 because of ping timeout 19 0 0
+2018-09-05 18:27:27.386149|INFO    |PktHandler    |1  |Dropping client 1 because of ping timeout 19 0 0
+2018-09-05 18:42:53.957094|INFO    |PktHandler    |1  |Dropping client 15 because of ping timeout 19 0 0
+2018-09-05 18:55:38.089683|INFO    |VirtualServer |1  |client (id:351) was added to servergroup 'Antipass'(id:9) by client 'Skung'(id:289)
