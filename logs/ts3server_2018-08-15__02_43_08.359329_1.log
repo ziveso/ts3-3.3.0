@@ -195,3 +195,5 @@
 2018-09-06 16:36:03.590769|INFO    |PktHandler    |1  |Dropping client 32 because of ping timeout 19 0 0
 2018-09-06 16:36:03.591346|INFO    |PktHandler    |1  |Dropping client 34 because of ping timeout 19 0 0
 2018-09-06 16:50:26.827889|INFO    |PktHandler    |1  |Cleaning up connection because of 7 resends of COMMAND packet
+2018-09-07 05:21:55.139267|INFO    |PktHandler    |1  |Dropping client 16 because of ping timeout 19 0 0
+2018-09-07 17:58:56.203712|INFO    |PktHandler    |1  |Dropping client 15 because of ping timeout 19 0 0
