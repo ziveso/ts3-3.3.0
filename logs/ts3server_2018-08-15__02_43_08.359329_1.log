@@ -202,3 +202,18 @@
 2018-09-08 08:11:10.683172|INFO    |VirtualServer |1  |client (id:354) was added to servergroup 'Antipass'(id:9) by client 'Lüthièn'(id:16)
 2018-09-08 15:13:11.507961|INFO    |PktHandler    |1  |Cleaning up connection because of 14 resends of COMMAND packet
 2018-09-08 15:13:11.535370|INFO    |PktHandler    |1  |Dropping client 36 because of resend timeout
+2018-09-09 07:27:59.691159|INFO    |PktHandler    |1  |Dropping client 4 because of ping timeout 19 0 0
+2018-09-09 09:44:10.473160|INFO    |PktHandler    |1  |Dropping client 17 because of ping timeout 19 0 0
+2018-09-09 09:58:09.021213|INFO    |PktHandler    |1  |Dropping client 18 because of ping timeout 19 0 0
+2018-09-09 12:09:41.005757|INFO    |PktHandler    |1  |Dropping client 9 because of ping timeout 19 0 0
+2018-09-09 12:46:19.694447|INFO    |PktHandler    |1  |Dropping client 10 because of ping timeout 19 0 0
+2018-09-09 13:04:45.511445|INFO    |PktHandler    |1  |Dropping client 17 because of ping timeout 19 0 0
+2018-09-09 13:24:31.509225|INFO    |PktHandler    |1  |Dropping client 19 because of ping timeout 19 0 0
+2018-09-09 13:29:23.036008|INFO    |PktHandler    |1  |Dropping client 20 because of ping timeout 19 0 0
+2018-09-09 13:30:51.392132|INFO    |PktHandler    |1  |Cleaning up connection because of 9 resends of COMMAND packet
+2018-09-09 13:30:51.392226|INFO    |PktHandler    |1  |Dropping client 22 because of resend timeout
+2018-09-09 14:06:10.782538|INFO    |PktHandler    |1  |Dropping client 24 because of ping timeout 19 0 0
+2018-09-09 14:09:02.841095|INFO    |VirtualServer |1  |client (id:346) was added to servergroup 'Normal'(id:7) by client 'Merodachs'(id:14)
+2018-09-09 14:09:08.906720|INFO    |VirtualServer |1  |client (id:357) was added to servergroup 'Normal'(id:7) by client 'Merodachs'(id:14)
+2018-09-09 15:59:43.865724|INFO    |PktHandler    |1  |Dropping client 34 because of ping timeout 19 0 0
+2018-09-09 17:28:21.749839|INFO    |PktHandler    |1  |Dropping client 37 because of ping timeout 19 0 0
