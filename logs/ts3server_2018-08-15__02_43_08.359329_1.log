@@ -217,3 +217,8 @@
 2018-09-09 14:09:08.906720|INFO    |VirtualServer |1  |client (id:357) was added to servergroup 'Normal'(id:7) by client 'Merodachs'(id:14)
 2018-09-09 15:59:43.865724|INFO    |PktHandler    |1  |Dropping client 34 because of ping timeout 19 0 0
 2018-09-09 17:28:21.749839|INFO    |PktHandler    |1  |Dropping client 37 because of ping timeout 19 0 0
+2018-09-10 06:11:59.443259|INFO    |PktHandler    |1  |Dropping client 12 because of ping timeout 19 0 0
+2018-09-10 09:58:17.826786|INFO    |PktHandler    |1  |Dropping client 1 because of ping timeout 19 0 0
+2018-09-10 12:49:52.369539|INFO    |PktHandler    |1  |Dropping client 21 because of ping timeout 19 0 0
+2018-09-11 01:17:21.781324|INFO    |PktHandler    |1  |Dropping client 5 because of ping timeout 19 0 0
+2018-09-11 01:41:13.480809|INFO    |PktHandler    |1  |Dropping client 14 because of ping timeout 19 0 0
