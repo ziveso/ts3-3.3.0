@@ -249,3 +249,11 @@
 2018-09-14 13:08:06.721460|INFO    |PktHandler    |1  |Dropping client 17 because of ping timeout 19 0 0
 2018-09-14 13:18:04.930901|INFO    |PktHandler    |1  |Dropping client 12 because of ping timeout 19 0 0
 2018-09-14 16:25:29.722382|INFO    |PktHandler    |1  |Dropping client 24 because of ping timeout 19 0 0
+2018-09-15 04:15:13.015143|INFO    |PktHandler    |1  |Dropping client 4 because of ping timeout 19 0 0
+2018-09-15 05:11:54.636512|INFO    |PktHandler    |1  |Dropping client 6 because of ping timeout 19 0 0
+2018-09-15 06:53:27.394410|INFO    |VirtualServer |1  |client (id:363) was added to servergroup 'Monkas'(id:6) by client 'Jom'(id:9)
+2018-09-15 07:28:07.051221|INFO    |PktHandler    |1  |Dropping client 9 because of ping timeout 19 0 0
+2018-09-15 10:03:11.764828|INFO    |PktHandler    |1  |Dropping client 13 because of ping timeout 19 0 0
+2018-09-15 16:29:36.597368|INFO    |PktHandler    |1  |Dropping client 20 because of ping timeout 19 0 0
+2018-09-15 18:41:07.861406|INFO    |VirtualServer |1  |client (id:271) was added to servergroup 'Normal'(id:7) by client 'anna molly'(id:11)
+2018-09-15 18:51:50.867805|INFO    |VirtualServer |1  |client 'Ford'(id:332) was added to channelgroup 'Channel Admin'(id:5) by client 'Ford'(id:332) in channel 'я๐๐м :: Jimmy'(id:22)
