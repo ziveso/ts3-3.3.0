@@ -257,3 +257,13 @@
 2018-09-15 16:29:36.597368|INFO    |PktHandler    |1  |Dropping client 20 because of ping timeout 19 0 0
 2018-09-15 18:41:07.861406|INFO    |VirtualServer |1  |client (id:271) was added to servergroup 'Normal'(id:7) by client 'anna molly'(id:11)
 2018-09-15 18:51:50.867805|INFO    |VirtualServer |1  |client 'Ford'(id:332) was added to channelgroup 'Channel Admin'(id:5) by client 'Ford'(id:332) in channel 'я๐๐м :: Jimmy'(id:22)
+2018-09-16 05:12:04.601570|INFO    |PktHandler    |1  |Dropping client 1 because of ping timeout 19 0 0
+2018-09-16 05:22:28.815548|INFO    |PktHandler    |1  |Dropping client 8 because of ping timeout 19 0 0
+2018-09-16 05:36:24.417456|INFO    |PktHandler    |1  |Dropping client 29 because of ping timeout 19 0 0
+2018-09-16 07:28:04.445867|INFO    |PktHandler    |1  |Cleaning up connection because of 12 resends of COMMAND packet
+2018-09-16 07:28:04.544737|INFO    |PktHandler    |1  |Dropping client 3 because of resend timeout
+2018-09-16 07:54:03.641615|INFO    |PktHandler    |1  |Dropping client 15 because of ping timeout 19 0 0
+2018-09-16 11:49:21.953254|INFO    |PktHandler    |1  |Dropping client 10 because of ping timeout 19 0 0
+2018-09-16 12:24:53.302715|INFO    |PktHandler    |1  |Dropping client 17 because of ping timeout 19 0 0
+2018-09-16 12:41:56.378628|INFO    |PktHandler    |1  |Dropping client 5 because of ping timeout 19 0 0
+2018-09-16 16:29:23.383231|INFO    |PktHandler    |1  |Dropping client 15 because of ping timeout 19 0 0
