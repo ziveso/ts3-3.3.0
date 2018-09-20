@@ -280,3 +280,20 @@
 2018-09-18 12:15:14.435393|INFO    |PktHandler    |1  |Cleaning up connection because of 9 resends of COMMAND packet
 2018-09-18 12:15:14.435506|INFO    |PktHandler    |1  |Dropping client 16 because of resend timeout
 2018-09-18 14:02:15.684551|INFO    |PktHandler    |1  |Dropping client 27 because of ping timeout 19 0 0
+2018-09-19 10:16:30.430206|INFO    |VirtualServer |1  |client (id:378) was added to servergroup 'Monkas'(id:6) by client 'Jom'(id:9)
+2018-09-19 13:09:16.170672|INFO    |PktHandler    |1  |Dropping client 17 because of ping timeout 19 0 0
+2018-09-19 13:34:59.539466|INFO    |VirtualServer |1  |permission 'b_client_is_priority_speaker'(id:179) with values (value:1) was added by 'TeamSpeakUser'(id:378) for client (id:378) and channel 'я๐๐м :: Jimmy'(id:22)
+2018-09-19 13:35:01.871119|INFO    |VirtualServer |1  |permission 'b_client_is_priority_speaker'(id:179) was deleted by 'TeamSpeakUser'(id:378) for client (id:378) and channel 'я๐๐м :: Jimmy'(id:22)
+2018-09-19 13:39:53.130912|INFO    |PktHandler    |1  |Dropping client 9 because of ping timeout 19 0 0
+2018-09-19 14:10:44.019067|INFO    |PktHandler    |1  |Dropping client 8 because of ping timeout 19 0 0
+2018-09-19 14:46:37.288252|INFO    |PktHandler    |1  |Dropping client 37 because of ping timeout 19 0 0
+2018-09-19 14:47:19.760857|INFO    |PktHandler    |1  |Cleaning up connection because of 9 resends of COMMAND packet
+2018-09-19 14:47:19.760940|INFO    |PktHandler    |1  |Dropping client 43 because of resend timeout
+2018-09-19 14:47:59.322057|INFO    |PktHandler    |1  |Cleaning up connection because of 9 resends of COMMAND packet
+2018-09-19 14:47:59.322142|INFO    |PktHandler    |1  |Dropping client 44 because of resend timeout
+2018-09-19 14:49:27.242722|INFO    |PktHandler    |1  |Cleaning up connection because of 9 resends of COMMAND packet
+2018-09-19 14:49:27.242801|INFO    |PktHandler    |1  |Dropping client 45 because of resend timeout
+2018-09-19 15:28:02.878054|INFO    |PktHandler    |1  |Dropping client 46 because of ping timeout 19 0 0
+2018-09-19 15:41:52.049590|INFO    |PktHandler    |1  |Dropping client 22 because of ping timeout 19 0 0
+2018-09-19 17:11:11.698086|INFO    |PktHandler    |1  |Dropping client 33 because of ping timeout 19 0 0
+2018-09-19 18:13:49.511031|INFO    |PktHandler    |1  |Dropping client 2 because of ping timeout 19 0 0
