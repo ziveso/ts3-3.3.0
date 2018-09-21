@@ -297,3 +297,17 @@
 2018-09-19 15:41:52.049590|INFO    |PktHandler    |1  |Dropping client 22 because of ping timeout 19 0 0
 2018-09-19 17:11:11.698086|INFO    |PktHandler    |1  |Dropping client 33 because of ping timeout 19 0 0
 2018-09-19 18:13:49.511031|INFO    |PktHandler    |1  |Dropping client 2 because of ping timeout 19 0 0
+2018-09-20 12:05:59.721331|INFO    |VirtualServer |1  |client (id:382) was added to servergroup 'Antipass'(id:9) by client 'MuffinnnZzzz ●﹏●'(id:17)
+2018-09-20 14:07:02.098606|INFO    |PktHandler    |1  |Cleaning up connection because of 11 resends of COMMAND packet
+2018-09-20 14:07:02.098704|INFO    |PktHandler    |1  |Dropping client 21 because of resend timeout
+2018-09-20 14:11:37.510339|INFO    |VirtualServer |1  |client (id:332) was added to servergroup 'God'(id:10) by client 'Ford'(id:332)
+2018-09-20 14:12:02.760523|INFO    |VirtualServer |1  |client (id:9) was added to servergroup 'God'(id:10) by client 'Ford'(id:332)
+2018-09-20 14:13:09.657545|INFO    |VirtualServer |1  |client (id:332) was removed from servergroup 'God'(id:10) by client 'Ford'(id:332)
+2018-09-20 14:13:22.035627|INFO    |VirtualServer |1  |client (id:332) was added to servergroup 'God'(id:10) by client 'Ford'(id:332)
+2018-09-20 14:35:48.814705|INFO    |PktHandler    |1  |Dropping client 22 because of ping timeout 19 0 0
+2018-09-20 15:10:54.404231|INFO    |VirtualServer |1  |client (id:384) was added to servergroup 'Normal'(id:7) by client 'Merodachs'(id:14)
+2018-09-20 15:48:40.498441|INFO    |PktHandler    |1  |Dropping client 31 because of ping timeout 19 0 0
+2018-09-20 17:11:09.590549|INFO    |PktHandler    |1  |Cleaning up connection because of 11 resends of COMMAND packet
+2018-09-20 17:11:09.590651|INFO    |PktHandler    |1  |Dropping client 32 because of resend timeout
+2018-09-20 18:14:04.178843|INFO    |PktHandler    |1  |Dropping client 38 because of ping timeout 19 0 0
+2018-09-20 20:45:16.553927|INFO    |PktHandler    |1  |Dropping client 7 because of ping timeout 19 0 0
