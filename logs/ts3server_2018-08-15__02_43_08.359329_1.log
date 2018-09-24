@@ -334,3 +334,38 @@
 2018-09-22 17:45:32.737695|INFO    |PktHandler    |1  |Dropping client 39 because of ping timeout 19 0 0
 2018-09-22 18:14:32.340885|INFO    |PktHandler    |1  |Dropping client 6 because of ping timeout 19 0 0
 2018-09-22 19:18:51.335334|INFO    |PktHandler    |1  |Dropping client 22 because of ping timeout 19 0 0
+2018-09-23 05:47:18.952837|INFO    |PktHandler    |1  |Dropping client 8 because of ping timeout 19 0 0
+2018-09-23 06:26:16.204344|INFO    |PktHandler    |1  |Dropping client 19 because of ping timeout 19 0 0
+2018-09-23 06:36:26.555660|INFO    |PktHandler    |1  |Dropping client 4 because of ping timeout 19 0 0
+2018-09-23 07:35:49.053189|INFO    |PktHandler    |1  |Dropping client 1 because of ping timeout 19 0 0
+2018-09-23 07:37:14.273145|INFO    |PktHandler    |1  |Dropping client 12 because of ping timeout 19 0 0
+2018-09-23 12:35:51.600702|INFO    |PktHandler    |1  |Dropping client 23 because of ping timeout 19 0 0
+2018-09-23 12:43:35.427525|INFO    |PktHandler    |1  |Dropping client 26 because of ping timeout 19 0 0
+2018-09-23 12:46:40.054549|INFO    |PktHandler    |1  |Cleaning up connection because of 3 resends of COMMAND packet
+2018-09-23 12:46:40.054653|INFO    |PktHandler    |1  |Dropping client 1 because of resend timeout
+2018-09-23 12:47:19.926891|INFO    |PktHandler    |1  |Cleaning up connection because of 9 resends of COMMAND packet
+2018-09-23 12:47:19.926986|INFO    |PktHandler    |1  |Dropping client 3 because of resend timeout
+2018-09-23 12:57:06.746081|INFO    |PktHandler    |1  |Dropping client 4 because of ping timeout 19 0 0
+2018-09-23 13:28:09.641951|INFO    |PktHandler    |1  |Dropping client 7 because of ping timeout 19 0 0
+2018-09-23 13:30:19.545058|INFO    |PktHandler    |1  |Cleaning up connection because of 9 resends of COMMAND packet
+2018-09-23 13:30:19.545160|INFO    |PktHandler    |1  |Dropping client 11 because of resend timeout
+2018-09-23 13:34:24.255267|INFO    |PktHandler    |1  |Dropping client 12 because of ping timeout 19 0 0
+2018-09-23 13:46:06.370473|INFO    |PktHandler    |1  |Dropping client 15 because of ping timeout 19 0 0
+2018-09-23 13:46:32.409385|INFO    |PktHandler    |1  |Dropping client 21 because of ping timeout 19 0 0
+2018-09-23 14:08:24.509272|INFO    |PktHandler    |1  |Dropping client 28 because of ping timeout 19 0 0
+2018-09-23 14:10:43.772907|INFO    |PktHandler    |1  |Dropping client 22 because of ping timeout 19 0 0
+2018-09-23 14:26:45.319528|INFO    |PktHandler    |1  |Dropping client 30 because of ping timeout 19 0 0
+2018-09-23 14:48:09.232004|INFO    |PktHandler    |1  |Cleaning up connection because of 4 resends of COMMAND packet
+2018-09-23 14:48:09.232258|INFO    |PktHandler    |1  |Dropping client 32 because of resend timeout
+2018-09-23 15:20:29.817020|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:144) with values (value:1269629472, negated:0, skipchannel:0) was added by 'Poนด์'(id:7) to servergroup 'Monkas'(id:6)
+2018-09-23 15:20:38.212187|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:144) with values (value:38446093, negated:0, skipchannel:0) was added by 'Poนด์'(id:7) to servergroup 'God'(id:10)
+2018-09-23 15:20:52.165739|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:144) with values (value:100) was added by 'Poนด์'(id:7) to channelgroup 'Channel Admin'(id:5)
+2018-09-23 15:21:04.106927|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:144) with values (value:-292357720) was added by 'Poนด์'(id:7) to channelgroup 'Operator'(id:6)
+2018-09-23 15:21:14.343738|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:144) with values (value:-958066624) was added by 'Poนด์'(id:7) to channelgroup 'Channel Admin'(id:5)
+2018-09-23 15:21:22.988604|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:144) with values (value:1968538709) was added by 'Poนด์'(id:7) to channelgroup 'Voice'(id:7)
+2018-09-23 15:21:31.530880|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:144) with values (value:-1430775678) was added by 'Poนด์'(id:7) to channelgroup 'Guest'(id:8)
+2018-09-23 15:26:15.040605|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:144) with values (value:357148704) was added by 'Poนด์'(id:7) to channelgroup 'Guest'(id:8)
+2018-09-23 15:29:06.314388|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:144) with values (value:488143983) was added by 'Poนด์'(id:7) to channelgroup 'Guest'(id:8)
+2018-09-23 15:39:41.197154|INFO    |PktHandler    |1  |Dropping client 35 because of ping timeout 19 0 0
+2018-09-23 16:36:08.782456|INFO    |PktHandler    |1  |Dropping client 1 because of ping timeout 19 0 0
+2018-09-23 18:14:47.633486|INFO    |PktHandler    |1  |Dropping client 26 because of ping timeout 19 0 0
