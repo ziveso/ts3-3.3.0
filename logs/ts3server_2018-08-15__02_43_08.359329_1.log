@@ -441,3 +441,10 @@
 2018-09-28 16:50:50.055694|INFO    |PktHandler    |1  |Dropping client 22 because of ping timeout 19 0 0
 2018-09-28 16:52:08.165740|INFO    |PktHandler    |1  |Dropping client 24 because of ping timeout 19 0 0
 2018-09-28 17:57:02.518976|INFO    |PktHandler    |1  |Dropping client 7 because of ping timeout 19 0 0
+2018-09-29 07:35:56.718673|INFO    |PktHandler    |1  |Dropping client 9 because of ping timeout 19 0 0
+2018-09-29 15:41:39.472386|INFO    |PktHandler    |1  |Dropping client 17 because of ping timeout 19 0 0
+2018-09-29 15:46:07.848282|INFO    |PktHandler    |1  |Dropping client 18 because of ping timeout 19 0 0
+2018-09-29 15:52:25.369362|INFO    |PktHandler    |1  |Dropping client 19 because of ping timeout 19 0 0
+2018-09-29 16:00:13.079239|INFO    |PktHandler    |1  |Dropping client 9 because of ping timeout 19 0 0
+2018-09-29 16:30:50.556179|INFO    |PktHandler    |1  |Dropping client 11 because of ping timeout 19 0 0
+2018-09-29 18:30:55.979533|INFO    |PktHandler    |1  |Dropping client 23 because of ping timeout 19 0 0
