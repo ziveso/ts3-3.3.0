@@ -472,3 +472,7 @@
 2018-10-01 10:14:44.911049|INFO    |PktHandler    |1  |Dropping client 11 because of resend timeout
 2018-10-01 15:54:14.026406|INFO    |PktHandler    |1  |Dropping client 15 because of ping timeout 19 0 0
 2018-10-01 16:34:42.669310|INFO    |PktHandler    |1  |Dropping client 13 because of ping timeout 19 0 0
+2018-10-02 14:07:32.104236|INFO    |PktHandler    |1  |Cleaning up connection because of 9 resends of COMMAND packet
+2018-10-02 14:07:32.145681|INFO    |PktHandler    |1  |Dropping client 14 because of resend timeout
+2018-10-02 14:17:48.957259|INFO    |PktHandler    |1  |Dropping client 16 because of ping timeout 19 0 0
+2018-10-02 14:49:08.133699|INFO    |VirtualServer |1  |client 'MuffinnnZzzz ●﹏●'(id:17) was added to channelgroup 'Guest'(id:8) by client 'ZivesO'(id:2) in channel 'я๐๐м :: MuffinnnZzzz ●﹏●'(id:17)
