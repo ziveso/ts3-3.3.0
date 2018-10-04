@@ -476,3 +476,8 @@
 2018-10-02 14:07:32.145681|INFO    |PktHandler    |1  |Dropping client 14 because of resend timeout
 2018-10-02 14:17:48.957259|INFO    |PktHandler    |1  |Dropping client 16 because of ping timeout 19 0 0
 2018-10-02 14:49:08.133699|INFO    |VirtualServer |1  |client 'MuffinnnZzzz ●﹏●'(id:17) was added to channelgroup 'Guest'(id:8) by client 'ZivesO'(id:2) in channel 'я๐๐м :: MuffinnnZzzz ●﹏●'(id:17)
+2018-10-03 09:36:47.570248|INFO    |PktHandler    |1  |Dropping client 9 because of ping timeout 19 0 0
+2018-10-03 10:13:49.681098|INFO    |PktHandler    |1  |Dropping client 2 because of ping timeout 19 0 0
+2018-10-03 13:59:48.517620|INFO    |PktHandler    |1  |Dropping client 19 because of ping timeout 19 0 0
+2018-10-03 16:23:42.891034|INFO    |PktHandler    |1  |Dropping client 29 because of ping timeout 19 0 0
+2018-10-03 16:25:39.081307|INFO    |PktHandler    |1  |Dropping client 30 because of ping timeout 19 0 0
