@@ -491,3 +491,7 @@
 2018-10-06 12:38:12.842322|INFO    |PktHandler    |1  |Dropping client 16 because of ping timeout 19 0 0
 2018-10-06 16:17:07.158130|INFO    |PktHandler    |1  |Dropping client 24 because of ping timeout 19 0 0
 2018-10-06 16:30:21.996023|INFO    |VirtualServer |1  |client (id:400) was added to servergroup 'Antipass'(id:9) by client 'Poนด์'(id:7)
+2018-10-07 07:36:06.219348|INFO    |PktHandler    |1  |Dropping client 4 because of ping timeout 19 0 0
+2018-10-07 08:18:54.745476|INFO    |PktHandler    |1  |Dropping client 8 because of ping timeout 19 0 0
+2018-10-07 10:34:41.182646|INFO    |PktHandler    |1  |Dropping client 20 because of ping timeout 19 0 0
+2018-10-07 14:43:51.750053|INFO    |PktHandler    |1  |Dropping client 6 because of ping timeout 19 0 0
