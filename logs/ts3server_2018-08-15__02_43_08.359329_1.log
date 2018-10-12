@@ -528,3 +528,20 @@
 2018-10-10 16:57:06.660158|INFO    |PktHandler    |1  |Dropping client 25 because of ping timeout 19 0 0
 2018-10-10 16:58:01.804313|INFO    |PktHandler    |1  |Dropping client 2 because of ping timeout 19 0 0
 2018-10-10 18:33:37.976544|INFO    |PktHandler    |1  |Dropping client 7 because of ping timeout 19 0 0
+2018-10-11 10:09:30.008616|INFO    |PktHandler    |1  |Dropping client 7 because of ping timeout 19 0 0
+2018-10-11 10:39:57.134426|INFO    |PktHandler    |1  |Cleaning up connection because of 9 resends of COMMAND packet
+2018-10-11 10:39:57.134546|INFO    |PktHandler    |1  |Dropping client 9 because of resend timeout
+2018-10-11 15:44:59.877446|INFO    |PktHandler    |1  |Dropping client 13 because of ping timeout 19 0 0
+2018-10-11 16:44:39.316465|INFO    |PktHandler    |1  |Dropping client 10 because of ping timeout 19 0 0
+2018-10-11 17:45:37.759257|INFO    |PktHandler    |1  |Dropping client 13 because of ping timeout 19 0 0
+2018-10-11 18:22:47.047805|INFO    |PktHandler    |1  |Cleaning up connection because of 10 resends of COMMAND packet
+2018-10-11 18:22:47.047918|INFO    |PktHandler    |1  |Dropping client 1 because of resend timeout
+2018-10-11 18:39:45.505921|INFO    |PktHandler    |1  |Dropping client 9 because of ping timeout 19 0 0
+2018-10-11 19:15:14.075211|INFO    |PktHandler    |1  |Dropping client 4 because of ping timeout 19 0 0
+2018-10-11 21:16:05.464270|INFO    |PktHandler    |1  |Dropping client 7 because of ping timeout 19 0 0
+2018-10-11 23:16:55.578392|INFO    |PktHandler    |1  |Dropping client 8 because of ping timeout 19 0 0
+2018-10-11 23:36:42.748898|INFO    |PktHandler    |1  |Dropping client 9 because of ping timeout 19 0 0
+2018-10-12 00:03:24.409195|INFO    |PktHandler    |1  |Dropping client 1 because of ping timeout 19 0 0
+2018-10-12 00:16:09.791600|INFO    |PktHandler    |1  |Dropping client 4 because of ping timeout 19 0 0
+2018-10-12 02:17:01.613730|INFO    |PktHandler    |1  |Dropping client 5 because of ping timeout 19 0 0
+2018-10-12 02:38:31.037347|INFO    |PktHandler    |1  |Dropping client 7 because of ping timeout 19 0 0
