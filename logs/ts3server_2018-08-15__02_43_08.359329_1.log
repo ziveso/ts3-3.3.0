@@ -545,3 +545,8 @@
 2018-10-12 00:16:09.791600|INFO    |PktHandler    |1  |Dropping client 4 because of ping timeout 19 0 0
 2018-10-12 02:17:01.613730|INFO    |PktHandler    |1  |Dropping client 5 because of ping timeout 19 0 0
 2018-10-12 02:38:31.037347|INFO    |PktHandler    |1  |Dropping client 7 because of ping timeout 19 0 0
+2018-10-12 15:31:37.638686|INFO    |PktHandler    |1  |Cleaning up connection because of 3 resends of COMMAND packet
+2018-10-12 17:02:49.385762|INFO    |VirtualServer |1  |client (id:153) was added to servergroup 'Monkas'(id:6) by client 'ZivesO'(id:293)
+2018-10-12 20:08:26.731131|INFO    |PktHandler    |1  |Dropping client 6 because of ping timeout 19 0 0
+2018-10-12 21:39:43.111311|INFO    |PktHandler    |1  |Dropping client 11 because of ping timeout 19 0 0
+2018-10-12 22:53:55.332553|INFO    |PktHandler    |1  |Dropping client 1 because of ping timeout 19 0 0
