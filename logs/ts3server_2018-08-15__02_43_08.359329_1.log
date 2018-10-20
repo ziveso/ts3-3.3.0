@@ -617,3 +617,7 @@
 2018-10-18 16:43:48.015750|INFO    |PktHandler    |1  |Cleaning up connection because of 2 resends of COMMAND packet
 2018-10-18 16:43:48.015827|INFO    |PktHandler    |1  |Dropping client 33 because of resend timeout
 2018-10-18 16:58:25.712887|INFO    |PktHandler    |1  |Dropping client 1 because of ping timeout 19 0 0
+2018-10-19 07:12:34.371223|INFO    |PktHandler    |1  |Dropping client 8 because of ping timeout 19 0 0
+2018-10-19 10:03:50.683239|INFO    |PktHandler    |1  |Dropping client 18 because of ping timeout 19 0 0
+2018-10-19 17:30:18.662014|INFO    |VirtualServer |1  |client (id:141) was removed from servergroup 'Monkas'(id:6) by client 'Merodachs'(id:13)
+2018-10-19 17:30:25.628155|INFO    |VirtualServer |1  |client (id:141) was added to servergroup 'Monkas'(id:6) by client 'Merodachs'(id:13)
