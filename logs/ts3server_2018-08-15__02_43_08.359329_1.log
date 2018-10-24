@@ -641,3 +641,7 @@
 2018-10-22 13:44:10.210281|INFO    |VirtualServer |1  |client (id:45) was added to servergroup 'Normal'(id:7) by client 'anna molly'(id:11)
 2018-10-22 15:34:28.115903|INFO    |PktHandler    |1  |Dropping client 16 because of ping timeout 19 0 0
 2018-10-22 15:58:17.069496|INFO    |PktHandler    |1  |Dropping client 30 because of ping timeout 19 0 0
+2018-10-23 10:47:45.020679|INFO    |PktHandler    |1  |Dropping client 3 because of ping timeout 19 0 0
+2018-10-23 15:21:27.495171|INFO    |PktHandler    |1  |Cleaning up connection because of 8 resends of COMMAND packet
+2018-10-23 15:21:27.495322|INFO    |PktHandler    |1  |Dropping client 30 because of resend timeout
+2018-10-23 16:11:51.550207|INFO    |PktHandler    |1  |Dropping client 11 because of ping timeout 19 0 0
