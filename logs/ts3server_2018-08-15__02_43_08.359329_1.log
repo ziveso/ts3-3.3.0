@@ -645,3 +645,20 @@
 2018-10-23 15:21:27.495171|INFO    |PktHandler    |1  |Cleaning up connection because of 8 resends of COMMAND packet
 2018-10-23 15:21:27.495322|INFO    |PktHandler    |1  |Dropping client 30 because of resend timeout
 2018-10-23 16:11:51.550207|INFO    |PktHandler    |1  |Dropping client 11 because of ping timeout 19 0 0
+2018-10-24 10:48:17.230298|INFO    |PktHandler    |1  |Dropping client 12 because of ping timeout 19 0 0
+2018-10-24 12:14:15.173315|INFO    |VirtualServer |1  |client (id:413) was added to servergroup 'Antipass'(id:9) by client 'Lüthièn'(id:16)
+2018-10-24 12:14:20.694525|INFO    |VirtualServer |1  |client (id:412) was added to servergroup 'Antipass'(id:9) by client 'Lüthièn'(id:16)
+2018-10-24 12:51:42.107393|INFO    |PktHandler    |1  |Dropping client 1 because of ping timeout 19 0 0
+2018-10-24 14:08:30.710604|INFO    |PktHandler    |1  |Dropping client 24 because of ping timeout 19 0 0
+2018-10-24 14:12:00.183447|INFO    |PktHandler    |1  |Cleaning up connection because of 8 resends of COMMAND packet
+2018-10-24 14:12:00.183555|INFO    |PktHandler    |1  |Dropping client 2 because of resend timeout
+2018-10-24 15:01:15.176102|INFO    |PktHandler    |1  |Dropping client 4 because of ping timeout 19 0 0
+2018-10-24 15:33:04.736879|INFO    |PktHandler    |1  |Dropping client 12 because of ping timeout 19 0 0
+2018-10-24 15:33:09.647793|INFO    |PktHandler    |1  |Cleaning up connection because of 2 resends of COMMAND packet
+2018-10-24 15:33:09.647910|INFO    |PktHandler    |1  |Dropping client 10 because of resend timeout
+2018-10-24 15:34:03.871241|INFO    |PktHandler    |1  |Dropping client 13 because of ping timeout 19 0 0
+2018-10-24 15:56:55.132901|INFO    |PktHandler    |1  |Dropping client 19 because of ping timeout 19 0 0
+2018-10-24 17:19:16.665628|INFO    |PktHandler    |1  |Cleaning up connection because of 9 resends of COMMAND packet
+2018-10-24 17:19:16.665840|INFO    |PktHandler    |1  |Dropping client 5 because of resend timeout
+2018-10-24 18:13:54.587468|INFO    |PktHandler    |1  |Dropping client 1 because of ping timeout 19 0 0
+2018-10-24 19:47:54.852012|INFO    |PktHandler    |1  |Dropping client 20 because of ping timeout 19 0 0
