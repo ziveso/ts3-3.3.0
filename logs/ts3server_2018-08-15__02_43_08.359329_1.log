@@ -662,3 +662,11 @@
 2018-10-24 17:19:16.665840|INFO    |PktHandler    |1  |Dropping client 5 because of resend timeout
 2018-10-24 18:13:54.587468|INFO    |PktHandler    |1  |Dropping client 1 because of ping timeout 19 0 0
 2018-10-24 19:47:54.852012|INFO    |PktHandler    |1  |Dropping client 20 because of ping timeout 19 0 0
+2018-10-25 13:54:17.597682|INFO    |PktHandler    |1  |Cleaning up connection because of 2 resends of COMMAND packet
+2018-10-25 13:54:17.662090|INFO    |PktHandler    |1  |Dropping client 6 because of resend timeout
+2018-10-25 14:00:21.207641|INFO    |PktHandler    |1  |Cleaning up connection because of 9 resends of COMMAND packet
+2018-10-25 14:00:21.207750|INFO    |PktHandler    |1  |Dropping client 10 because of resend timeout
+2018-10-25 14:02:55.629604|INFO    |PktHandler    |1  |Dropping client 13 because of ping timeout 19 0 0
+2018-10-25 15:20:30.186652|INFO    |PktHandler    |1  |Dropping client 9 because of ping timeout 19 0 0
+2018-10-25 15:22:46.861877|INFO    |VirtualServer |1  |client 'Jom'(id:9) was added to channelgroup 'Channel Admin'(id:5) by client 'Poนด์'(id:7) in channel 'я๐๐м :: Jimmy'(id:22)
+2018-10-25 15:23:47.859054|INFO    |VirtualServer |1  |client 'Jom'(id:9) was added to channelgroup 'Channel Admin'(id:5) by client 'Poนด์'(id:7) in channel 'я๐๐м :: Jimmy'(id:22)
