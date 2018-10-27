@@ -670,3 +670,10 @@
 2018-10-25 15:20:30.186652|INFO    |PktHandler    |1  |Dropping client 9 because of ping timeout 19 0 0
 2018-10-25 15:22:46.861877|INFO    |VirtualServer |1  |client 'Jom'(id:9) was added to channelgroup 'Channel Admin'(id:5) by client 'Poนด์'(id:7) in channel 'я๐๐м :: Jimmy'(id:22)
 2018-10-25 15:23:47.859054|INFO    |VirtualServer |1  |client 'Jom'(id:9) was added to channelgroup 'Channel Admin'(id:5) by client 'Poนด์'(id:7) in channel 'я๐๐м :: Jimmy'(id:22)
+2018-10-26 03:51:41.330754|INFO    |PktHandler    |1  |Dropping client 8 because of ping timeout 19 0 0
+2018-10-26 06:32:00.700488|INFO    |PktHandler    |1  |Dropping client 4 because of ping timeout 19 0 0
+2018-10-26 10:49:21.067008|INFO    |PktHandler    |1  |Dropping client 7 because of ping timeout 19 0 0
+2018-10-26 13:54:41.539957|INFO    |PktHandler    |1  |Dropping client 2 because of ping timeout 19 0 0
+2018-10-26 14:57:13.473685|INFO    |VirtualServer |1  |client (id:9) was removed from servergroup 'Monkas'(id:6) by client 'Ford'(id:4)
+2018-10-26 14:57:27.037311|INFO    |VirtualServer |1  |client (id:9) was added to servergroup 'Monkas'(id:6) by client 'Merodachs'(id:14)
+2018-10-27 00:01:22.867614|INFO    |PktHandler    |1  |Dropping client 6 because of ping timeout 19 0 0
