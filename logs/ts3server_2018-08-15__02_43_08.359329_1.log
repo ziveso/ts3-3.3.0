@@ -677,3 +677,10 @@
 2018-10-26 14:57:13.473685|INFO    |VirtualServer |1  |client (id:9) was removed from servergroup 'Monkas'(id:6) by client 'Ford'(id:4)
 2018-10-26 14:57:27.037311|INFO    |VirtualServer |1  |client (id:9) was added to servergroup 'Monkas'(id:6) by client 'Merodachs'(id:14)
 2018-10-27 00:01:22.867614|INFO    |PktHandler    |1  |Dropping client 6 because of ping timeout 19 0 0
+2018-10-27 10:49:52.524687|INFO    |PktHandler    |1  |Dropping client 5 because of ping timeout 19 0 0
+2018-10-27 14:26:46.818369|INFO    |PktHandler    |1  |Dropping client 7 because of ping timeout 19 0 0
+2018-10-27 14:37:15.536767|INFO    |VirtualServer |1  |client 'Ford'(id:4) was added to channelgroup 'Channel Admin'(id:5) by client 'Mero'(id:28) in channel 'я๐๐м :: Ford solo:4/2'(id:9)
+2018-10-27 14:39:45.750895|INFO    |VirtualServer |1  |client (id:4) was added to servergroup 'God'(id:10) by client 'Ford'(id:4)
+2018-10-27 14:41:42.204061|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:144) with values (value:-870609412) was added by 'Ford'(id:4) to channel 'я๐๐м :: Ford solo:4/2'(id:59)
+2018-10-27 15:49:00.545624|INFO    |PktHandler    |1  |Dropping client 5 because of ping timeout 19 0 0
+2018-10-27 17:52:56.645427|INFO    |PktHandler    |1  |Dropping client 17 because of ping timeout 19 0 0
