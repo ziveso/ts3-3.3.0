@@ -684,3 +684,16 @@
 2018-10-27 14:41:42.204061|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:144) with values (value:-870609412) was added by 'Ford'(id:4) to channel 'я๐๐м :: Ford solo:4/2'(id:59)
 2018-10-27 15:49:00.545624|INFO    |PktHandler    |1  |Dropping client 5 because of ping timeout 19 0 0
 2018-10-27 17:52:56.645427|INFO    |PktHandler    |1  |Dropping client 17 because of ping timeout 19 0 0
+2018-10-28 10:15:14.747165|INFO    |PktHandler    |1  |Dropping client 7 because of ping timeout 19 0 0
+2018-10-28 10:50:26.128768|INFO    |PktHandler    |1  |Dropping client 8 because of ping timeout 19 0 0
+2018-10-28 12:10:10.821142|INFO    |PktHandler    |1  |Dropping client 1 because of ping timeout 19 0 0
+2018-10-28 13:34:49.552074|INFO    |PktHandler    |1  |Dropping client 26 because of ping timeout 19 0 0
+2018-10-28 14:10:08.869434|INFO    |PktHandler    |1  |Dropping client 23 because of ping timeout 19 0 0
+2018-10-28 14:10:53.052807|INFO    |PktHandler    |1  |Cleaning up connection because of 13 resends of COMMAND packet
+2018-10-28 14:10:53.052910|INFO    |PktHandler    |1  |Dropping client 27 because of resend timeout
+2018-10-28 15:08:14.809978|INFO    |PktHandler    |1  |Dropping client 29 because of ping timeout 19 0 0
+2018-10-28 15:47:53.567174|INFO    |PktHandler    |1  |Dropping client 22 because of ping timeout 19 0 0
+2018-10-28 16:36:03.497000|INFO    |PktHandler    |1  |Dropping client 33 because of ping timeout 19 0 0
+2018-10-28 16:43:29.445473|INFO    |PktHandler    |1  |Dropping client 4 because of ping timeout 19 0 0
+2018-10-28 20:56:25.602618|INFO    |PktHandler    |1  |Dropping client 11 because of ping timeout 19 0 0
+2018-10-28 23:29:11.419302|INFO    |PktHandler    |1  |Dropping client 17 because of ping timeout 19 0 0
