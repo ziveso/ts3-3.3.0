@@ -748,3 +748,6 @@
 2018-11-04 11:07:26.357723|INFO    |PktHandler    |1  |Dropping client 17 because of ping timeout 19 0 0
 2018-11-04 12:11:17.520395|INFO    |PktHandler    |1  |Dropping client 5 because of ping timeout 19 0 0
 2018-11-04 15:36:32.398511|INFO    |PktHandler    |1  |Dropping client 11 because of ping timeout 19 0 0
+2018-11-05 04:34:02.396780|INFO    |PktHandler    |1  |Dropping client 20 because of ping timeout 19 0 0
+2018-11-05 11:41:03.585728|INFO    |PktHandler    |1  |Dropping client 3 because of ping timeout 19 0 0
+2018-11-06 01:32:10.135478|INFO    |PktHandler    |1  |Dropping client 21 because of ping timeout 19 0 0
