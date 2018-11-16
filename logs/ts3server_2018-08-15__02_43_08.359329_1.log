@@ -801,3 +801,9 @@
 2018-11-14 13:50:15.768350|INFO    |PktHandler    |1  |Dropping client 6 because of resend timeout
 2018-11-14 17:44:29.244284|INFO    |PktHandler    |1  |Dropping client 18 because of ping timeout 19 0 0
 2018-11-14 17:55:47.651699|INFO    |PktHandler    |1  |Dropping client 13 because of ping timeout 19 0 0
+2018-11-15 06:48:13.013380|INFO    |PktHandler    |1  |Dropping client 6 because of ping timeout 19 0 0
+2018-11-15 07:02:46.864908|INFO    |PktHandler    |1  |Dropping client 8 because of ping timeout 19 0 0
+2018-11-15 09:04:29.918465|INFO    |PktHandler    |1  |Dropping client 9 because of ping timeout 19 0 0
+2018-11-15 14:31:55.184093|INFO    |PktHandler    |1  |Dropping client 18 because of ping timeout 19 0 0
+2018-11-15 14:58:26.143118|INFO    |PktHandler    |1  |Dropping client 22 because of ping timeout 19 0 0
+2018-11-15 17:48:23.739739|INFO    |PktHandler    |1  |Dropping client 20 because of ping timeout 19 0 0
