@@ -812,3 +812,17 @@
 2018-11-16 12:28:55.489023|INFO    |PktHandler    |1  |Dropping client 12 because of ping timeout 19 0 0
 2018-11-16 14:02:47.281630|INFO    |PktHandler    |1  |Dropping client 17 because of ping timeout 19 0 0
 2018-11-16 17:48:56.935113|INFO    |PktHandler    |1  |Dropping client 2 because of ping timeout 19 0 0
+2018-11-17 05:06:23.646425|INFO    |PktHandler    |1  |Dropping client 15 because of ping timeout 19 0 0
+2018-11-17 09:19:09.762897|INFO    |PktHandler    |1  |Dropping client 7 because of ping timeout 19 0 0
+2018-11-17 11:01:09.835321|INFO    |PktHandler    |1  |Dropping client 3 because of ping timeout 19 0 0
+2018-11-17 11:35:35.700303|INFO    |PktHandler    |1  |Dropping client 18 because of ping timeout 19 0 0
+2018-11-17 12:00:32.824252|INFO    |VirtualServer |1  |client (id:428) was added to servergroup 'Monkas'(id:6) by client 'MuffinnnZzzz ●﹏●'(id:17)
+2018-11-17 12:05:40.960438|INFO    |PktHandler    |1  |Dropping client 27 because of ping timeout 19 0 0
+2018-11-17 13:41:18.077930|INFO    |PktHandler    |1  |Dropping client 31 because of ping timeout 19 0 0
+2018-11-17 14:02:07.303565|INFO    |PktHandler    |1  |Dropping client 10 because of ping timeout 19 0 0
+2018-11-17 14:02:11.311732|INFO    |PktHandler    |1  |Dropping client 35 because of ping timeout 19 0 0
+2018-11-17 16:44:46.041279|INFO    |VirtualServer |1  |permission 'b_client_is_priority_speaker'(id:179) with values (value:1) was added by 'FEVER'(id:428) for client (id:428) and channel 'я๐๐м :: Jimmy'(id:22)
+2018-11-17 16:44:48.395331|INFO    |VirtualServer |1  |permission 'b_client_is_priority_speaker'(id:179) was deleted by 'FEVER'(id:428) for client (id:428) and channel 'я๐๐м :: Jimmy'(id:22)
+2018-11-17 17:00:07.137024|INFO    |PktHandler    |1  |Dropping client 19 because of ping timeout 19 0 0
+2018-11-17 17:49:29.298068|INFO    |PktHandler    |1  |Dropping client 30 because of ping timeout 19 0 0
+2018-11-17 18:29:40.533802|INFO    |PktHandler    |1  |Dropping client 37 because of ping timeout 19 0 0
