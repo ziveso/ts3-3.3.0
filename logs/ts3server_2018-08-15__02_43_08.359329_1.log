@@ -856,3 +856,8 @@
 2018-11-21 03:01:26.631767|INFO    |PktHandler    |1  |Dropping client 5 because of ping timeout 19 0 0
 2018-11-21 17:51:38.076632|INFO    |PktHandler    |1  |Dropping client 5 because of ping timeout 19 0 0
 2018-11-21 17:53:59.146210|INFO    |VirtualServer |1  |client (id:429) was added to servergroup 'Antipass'(id:9) by client 'BaII'(id:16)
+2018-11-22 11:03:52.040194|INFO    |PktHandler    |1  |Dropping client 4 because of ping timeout 19 0 0
+2018-11-22 14:03:01.933674|INFO    |PktHandler    |1  |Dropping client 8 because of ping timeout 19 0 0
+2018-11-22 17:02:03.498018|INFO    |PktHandler    |1  |Dropping client 17 because of ping timeout 19 0 0
+2018-11-22 17:52:10.029315|INFO    |PktHandler    |1  |Dropping client 14 because of ping timeout 19 0 0
+2018-11-22 18:07:56.747661|INFO    |PktHandler    |1  |Dropping client 16 because of ping timeout 19 0 0
