@@ -864,3 +864,11 @@
 2018-11-23 11:04:24.499887|INFO    |PktHandler    |1  |Dropping client 9 because of ping timeout 19 0 0
 2018-11-23 17:18:17.822465|INFO    |PktHandler    |1  |Dropping client 12 because of ping timeout 19 0 0
 2018-11-23 17:52:41.490950|INFO    |PktHandler    |1  |Dropping client 25 because of ping timeout 19 0 0
+2018-11-24 05:15:55.809450|INFO    |PktHandler    |1  |Dropping client 4 because of ping timeout 19 0 0
+2018-11-24 09:12:04.865692|INFO    |VirtualServer |1  |client (id:9) was removed from servergroup 'God'(id:10) by client 'Merodachs'(id:14)
+2018-11-24 09:12:18.026907|INFO    |VirtualServer |1  |client (id:9) was added to servergroup 'Normal'(id:7) by client 'Merodachs'(id:14)
+2018-11-24 11:04:56.689046|INFO    |PktHandler    |1  |Dropping client 10 because of ping timeout 19 0 0
+2018-11-24 11:25:55.124561|INFO    |PktHandler    |1  |Dropping client 12 because of ping timeout 19 0 0
+2018-11-24 12:00:11.953577|INFO    |PktHandler    |1  |Dropping client 18 because of ping timeout 19 0 0
+2018-11-24 12:30:50.402374|INFO    |PktHandler    |1  |Dropping client 20 because of ping timeout 19 0 0
+2018-11-24 17:53:13.298555|INFO    |PktHandler    |1  |Dropping client 22 because of ping timeout 19 0 0
