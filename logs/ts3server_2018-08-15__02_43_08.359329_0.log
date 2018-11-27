@@ -18156,3 +18156,29 @@
 2018-11-25 19:39:12.463866|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_871106730": No such file or directory
 2018-11-25 19:39:12.484342|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_916649827": No such file or directory
 2018-11-26 02:43:57.202119|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2018-11-26 13:13:45.087223|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_345037176": No such file or directory
+2018-11-26 13:13:45.112309|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3417122722": No such file or directory
+2018-11-26 13:13:45.113632|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_1297365456": No such file or directory
+2018-11-26 13:13:45.115701|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_913662668": No such file or directory
+2018-11-26 13:13:45.120659|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_95679974": No such file or directory
+2018-11-26 13:13:45.373218|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3610718123": No such file or directory
+2018-11-26 13:13:45.375233|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_871106730": No such file or directory
+2018-11-26 13:13:46.441092|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_916649827": No such file or directory
+2018-11-26 14:16:19.696222|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3610718123": No such file or directory
+2018-11-26 14:16:23.763410|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_916649827": No such file or directory
+2018-11-26 14:35:48.961993|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_345037176": No such file or directory
+2018-11-26 14:35:48.964172|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_1297365456": No such file or directory
+2018-11-26 14:35:49.657087|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3417122722": No such file or directory
+2018-11-26 14:35:49.657340|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_913662668": No such file or directory
+2018-11-26 14:35:50.297854|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_95679974": No such file or directory
+2018-11-26 14:35:50.368647|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3610718123": No such file or directory
+2018-11-26 14:35:50.368966|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_871106730": No such file or directory
+2018-11-26 14:35:52.803982|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_95679974": No such file or directory
+2018-11-26 14:35:52.810639|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_916649827": No such file or directory
+2018-11-26 14:35:52.837698|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_1297365456": No such file or directory
+2018-11-26 14:35:53.434544|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_345037176": No such file or directory
+2018-11-26 14:35:53.436600|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3417122722": No such file or directory
+2018-11-26 14:35:53.928526|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_913662668": No such file or directory
+2018-11-26 14:35:53.956837|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3610718123": No such file or directory
+2018-11-26 14:35:53.956892|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_871106730": No such file or directory
+2018-11-27 02:43:57.247484|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
