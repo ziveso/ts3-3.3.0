@@ -883,3 +883,21 @@
 2018-11-26 17:01:22.490310|INFO    |PktHandler    |1  |Dropping client 9 because of ping timeout 19 0 0
 2018-11-26 18:52:15.358368|INFO    |PktHandler    |1  |Dropping client 19 because of ping timeout 19 0 0
 2018-11-26 20:07:22.861434|INFO    |PktHandler    |1  |Dropping client 20 because of ping timeout 19 0 0
+2018-11-27 03:50:44.340783|INFO    |PktHandler    |1  |Dropping client 4 because of ping timeout 19 0 0
+2018-11-27 06:14:08.495761|INFO    |PktHandler    |1  |Dropping client 6 because of ping timeout 19 0 0
+2018-11-27 06:18:16.041149|INFO    |PktHandler    |1  |Dropping client 7 because of ping timeout 19 0 0
+2018-11-27 06:21:51.481862|INFO    |PktHandler    |1  |Dropping client 9 because of ping timeout 19 0 0
+2018-11-27 06:22:48.599761|INFO    |PktHandler    |1  |Dropping client 10 because of ping timeout 19 0 0
+2018-11-27 06:24:18.676010|INFO    |PktHandler    |1  |Cleaning up connection because of 12 resends of COMMAND packet
+2018-11-27 06:24:18.676100|INFO    |PktHandler    |1  |Dropping client 11 because of resend timeout
+2018-11-27 06:25:53.968110|INFO    |PktHandler    |1  |Dropping client 12 because of ping timeout 19 0 0
+2018-11-27 11:06:33.416996|INFO    |PktHandler    |1  |Dropping client 6 because of ping timeout 19 0 0
+2018-11-27 13:41:31.592651|INFO    |PktHandler    |1  |Dropping client 8 because of ping timeout 19 0 0
+2018-11-27 14:30:48.067221|INFO    |PktHandler    |1  |Dropping client 16 because of ping timeout 19 0 0
+2018-11-27 14:50:29.003522|INFO    |VirtualServer |1  |client (id:430) was added to servergroup 'Antipass'(id:9) by client 'ที่รักบอล'(id:16)
+2018-11-27 16:10:48.943884|INFO    |PktHandler    |1  |Dropping client 28 because of ping timeout 19 0 0
+2018-11-27 16:37:50.011472|INFO    |PktHandler    |1  |Dropping client 4 because of ping timeout 19 0 0
+2018-11-27 17:02:33.609534|INFO    |PktHandler    |1  |Cleaning up connection because of 10 resends of COMMAND packet
+2018-11-27 17:02:33.609704|INFO    |PktHandler    |1  |Dropping client 8 because of resend timeout
+2018-11-27 17:19:06.053839|INFO    |PktHandler    |1  |Dropping client 10 because of ping timeout 19 0 0
+2018-11-28 02:25:01.733791|INFO    |PktHandler    |1  |Dropping client 12 because of ping timeout 19 0 0
