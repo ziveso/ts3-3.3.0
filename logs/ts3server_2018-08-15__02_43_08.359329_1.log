@@ -932,3 +932,5 @@
 2018-12-02 13:24:18.931699|INFO    |PktHandler    |1  |Dropping client 19 because of ping timeout 19 0 0
 2018-12-02 15:40:45.257491|INFO    |PktHandler    |1  |Dropping client 22 because of ping timeout 19 0 0
 2018-12-02 17:59:29.246632|INFO    |VirtualServer |1  |client (id:409) was added to servergroup 'Antipass'(id:9) by client 'MuffinnnZzzz ●﹏●'(id:17)
+2018-12-03 10:05:55.098767|INFO    |PktHandler    |1  |Dropping client 12 because of ping timeout 19 0 0
+2018-12-03 11:09:47.213112|INFO    |PktHandler    |1  |Dropping client 6 because of ping timeout 19 0 0
