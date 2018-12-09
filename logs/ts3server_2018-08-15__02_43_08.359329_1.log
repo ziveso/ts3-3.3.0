@@ -963,3 +963,7 @@
 2018-12-07 11:11:54.829316|INFO    |PktHandler    |1  |Dropping client 3 because of ping timeout 19 0 0
 2018-12-07 15:43:25.934023|INFO    |PktHandler    |1  |Dropping client 7 because of ping timeout 19 0 0
 2018-12-07 21:32:00.017185|INFO    |PktHandler    |1  |Dropping client 10 because of ping timeout 19 0 0
+2018-12-08 11:02:12.842267|INFO    |VirtualServer |1  |client (id:437) was added to servergroup 'Monkas'(id:6) by client 'Merodachs'(id:14)
+2018-12-08 11:12:27.152480|INFO    |PktHandler    |1  |Dropping client 3 because of ping timeout 19 0 0
+2018-12-08 12:30:58.795393|INFO    |PktHandler    |1  |Dropping client 18 because of ping timeout 19 0 0
+2018-12-08 15:43:57.318785|INFO    |PktHandler    |1  |Dropping client 20 because of ping timeout 19 0 0
