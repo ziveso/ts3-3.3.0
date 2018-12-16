@@ -1005,3 +1005,11 @@
 2018-12-14 15:22:45.681632|INFO    |VirtualServer |1  |client (id:443) was added to servergroup 'Monkas'(id:6) by client 'MuffinnnZzzz ●﹏●'(id:17)
 2018-12-14 15:47:10.456874|INFO    |PktHandler    |1  |Dropping client 18 because of ping timeout 19 0 0
 2018-12-14 19:59:38.862248|INFO    |PktHandler    |1  |Dropping client 9 because of ping timeout 19 0 0
+2018-12-15 06:54:29.952657|INFO    |PktHandler    |1  |Dropping client 7 because of ping timeout 19 0 0
+2018-12-15 06:54:38.401540|INFO    |PktHandler    |1  |Cleaning up connection because of 9 resends of COMMAND packet
+2018-12-15 06:54:38.401629|INFO    |PktHandler    |1  |Dropping client 10 because of resend timeout
+2018-12-15 06:55:21.986356|INFO    |PktHandler    |1  |Cleaning up connection because of 9 resends of COMMAND packet
+2018-12-15 06:55:21.986534|INFO    |PktHandler    |1  |Dropping client 11 because of resend timeout
+2018-12-15 11:49:44.277648|INFO    |PktHandler    |1  |Dropping client 12 because of ping timeout 19 0 0
+2018-12-15 15:47:42.350874|INFO    |PktHandler    |1  |Dropping client 10 because of ping timeout 19 0 0
+2018-12-15 16:25:19.196176|INFO    |PktHandler    |1  |Dropping client 12 because of ping timeout 19 0 0
