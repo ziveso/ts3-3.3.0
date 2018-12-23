@@ -1048,3 +1048,8 @@
 2018-12-20 20:20:26.413181|INFO    |PktHandler    |1  |Dropping client 7 because of ping timeout 19 0 0
 2018-12-21 06:51:57.599336|INFO    |PktHandler    |1  |Dropping client 11 because of ping timeout 19 0 0
 2018-12-21 10:54:33.972307|INFO    |PktHandler    |1  |Dropping client 9 because of ping timeout 19 0 0
+2018-12-22 03:32:56.930535|INFO    |PktHandler    |1  |Dropping client 5 because of ping timeout 19 0 0
+2018-12-22 10:55:24.319485|INFO    |PktHandler    |1  |Dropping client 1 because of ping timeout 19 0 0
+2018-12-22 13:03:25.032292|INFO    |PktHandler    |1  |Dropping client 15 because of ping timeout 19 0 0
+2018-12-22 14:26:26.715038|INFO    |PktHandler    |1  |Dropping client 5 because of ping timeout 19 0 0
+2018-12-22 14:51:57.692566|INFO    |PktHandler    |1  |Dropping client 16 because of ping timeout 19 0 0
