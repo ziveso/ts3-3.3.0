@@ -1055,3 +1055,12 @@
 2018-12-22 14:51:57.692566|INFO    |PktHandler    |1  |Dropping client 16 because of ping timeout 19 0 0
 2018-12-23 10:55:57.430454|INFO    |PktHandler    |1  |Dropping client 8 because of ping timeout 19 0 0
 2018-12-23 16:35:55.715409|INFO    |PktHandler    |1  |Dropping client 3 because of ping timeout 19 0 0
+2018-12-24 04:26:17.979595|INFO    |PktHandler    |1  |Cleaning up connection because of 9 resends of COMMAND packet
+2018-12-24 04:26:17.989289|INFO    |PktHandler    |1  |Dropping client 6 because of resend timeout
+2018-12-24 09:54:17.755659|INFO    |PktHandler    |1  |Dropping client 3 because of ping timeout 19 0 0
+2018-12-24 10:56:30.160240|INFO    |PktHandler    |1  |Dropping client 7 because of ping timeout 19 0 0
+2018-12-24 14:18:17.719262|INFO    |VirtualServer |1  |client (id:451) was added to servergroup 'Antipass'(id:9) by client 'Poนด์'(id:7)
+2018-12-24 14:20:07.016956|INFO    |VirtualServer |1  |client (id:452) was added to servergroup 'Antipass'(id:9) by client 'Poนด์'(id:7)
+2018-12-24 14:44:57.970619|INFO    |PktHandler    |1  |Dropping client 1 because of ping timeout 19 0 0
+2018-12-24 16:12:38.117744|INFO    |PktHandler    |1  |Dropping client 16 because of ping timeout 19 0 0
+2018-12-24 19:16:05.631775|INFO    |PktHandler    |1  |Dropping client 20 because of ping timeout 19 0 0
