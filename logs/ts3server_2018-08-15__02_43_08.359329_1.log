@@ -1067,3 +1067,8 @@
 2018-12-25 10:57:02.023303|INFO    |PktHandler    |1  |Dropping client 3 because of ping timeout 19 0 0
 2018-12-25 19:14:03.187454|INFO    |PktHandler    |1  |Dropping client 16 because of ping timeout 19 0 0
 2018-12-25 19:35:05.521298|INFO    |PktHandler    |1  |Dropping client 3 because of ping timeout 19 0 0
+2018-12-26 10:57:34.322705|INFO    |PktHandler    |1  |Dropping client 17 because of ping timeout 19 0 0
+2018-12-26 11:49:42.770748|INFO    |VirtualServer |1  |client (id:453) was added to servergroup 'Antipass'(id:9) by client 'MuffinnnZzzz'(id:446)
+2018-12-26 14:57:44.264770|INFO    |PktHandler    |1  |Dropping client 20 because of ping timeout 19 0 0
+2018-12-26 15:30:54.277270|INFO    |PktHandler    |1  |Cleaning up connection because of 13 resends of COMMAND packet
+2018-12-26 15:30:54.277369|INFO    |PktHandler    |1  |Dropping client 32 because of resend timeout
