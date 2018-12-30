@@ -2295,3 +2295,25 @@ Changes not staged for commit:
 	modified:   ts3server.sqlitedb-wal
 
 no changes added to commit (use "git add" and/or "git commit -a")
+Sun Dec 30 03:16:53 UTC 2018
+On branch 3.3.0
+Your branch is ahead of 'origin/3.3.0' by 31 commits.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   gStatus.txt
+	modified:   logs/ts3server_2018-08-15__02_43_08.359329_0.log
+	modified:   logs/ts3server_2018-08-15__02_43_08.359329_1.log
+	modified:   ts3server.sqlitedb
+	modified:   ts3server.sqlitedb-shm
+	modified:   ts3server.sqlitedb-wal
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	files/virtualserver_1/internal/avatar_lohjfakbelmhfhbpmfokipfkngdlhjjocdkbpeed
+
+no changes added to commit (use "git add" and/or "git commit -a")
