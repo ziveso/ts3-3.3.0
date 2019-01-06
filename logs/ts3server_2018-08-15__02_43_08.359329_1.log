@@ -1111,3 +1111,7 @@
 2019-01-04 11:02:38.870632|INFO    |PktHandler    |1  |Dropping client 8 because of ping timeout 19 0 0
 2019-01-04 13:12:15.798184|INFO    |PktHandler    |1  |Dropping client 19 because of ping timeout 19 0 0
 2019-01-04 18:13:01.988689|INFO    |PktHandler    |1  |Dropping client 14 because of ping timeout 19 0 0
+2019-01-05 05:46:05.798029|INFO    |PktHandler    |1  |Dropping client 12 because of ping timeout 19 0 0
+2019-01-05 06:38:16.674650|INFO    |PktHandler    |1  |Dropping client 8 because of ping timeout 19 0 0
+2019-01-05 14:38:55.563283|INFO    |PktHandler    |1  |Dropping client 19 because of ping timeout 19 0 0
+2019-01-05 20:36:30.329326|INFO    |PktHandler    |1  |Dropping client 4 because of ping timeout 19 0 0
