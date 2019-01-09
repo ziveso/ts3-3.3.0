@@ -1124,3 +1124,7 @@
 2019-01-07 09:36:02.308103|INFO    |VirtualServer |1  |client (id:9) was added to servergroup 'Monkas'(id:6) by client 'Ford'(id:454)
 2019-01-07 10:03:20.988381|INFO    |PktHandler    |1  |Dropping client 5 because of ping timeout 19 0 0
 2019-01-07 13:58:13.651744|INFO    |PktHandler    |1  |Dropping client 3 because of ping timeout 19 0 0
+2019-01-08 13:33:03.327089|INFO    |PktHandler    |1  |Dropping client 10 because of ping timeout 19 0 0
+2019-01-08 17:55:32.195092|INFO    |PktHandler    |1  |Dropping client 3 because of ping timeout 19 0 0
+2019-01-08 19:22:15.314037|INFO    |PktHandler    |1  |Dropping client 1 because of ping timeout 19 0 0
+2019-01-08 20:31:32.596415|INFO    |PktHandler    |1  |Dropping client 16 because of ping timeout 19 0 0
