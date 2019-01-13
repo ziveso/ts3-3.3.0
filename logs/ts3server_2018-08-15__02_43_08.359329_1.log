@@ -1133,3 +1133,12 @@
 2019-01-10 18:09:46.803048|INFO    |PktHandler    |1  |Dropping client 10 because of ping timeout 19 0 0
 2019-01-11 06:41:22.977767|INFO    |PktHandler    |1  |Cleaning up connection because of 13 resends of COMMAND packet
 2019-01-11 06:41:23.001001|INFO    |PktHandler    |1  |Dropping client 3 because of resend timeout
+2019-01-12 06:42:02.470022|INFO    |PktHandler    |1  |Dropping client 3 because of ping timeout 19 0 0
+2019-01-12 11:50:39.642160|INFO    |VirtualServer |1  |client (id:455) was added to servergroup 'Antipass'(id:9) by client 'Lüthièn'(id:16)
+2019-01-12 16:18:26.529717|INFO    |PktHandler    |1  |Cleaning up connection because of 5 resends of COMMAND packet
+2019-01-12 17:46:01.622755|INFO    |PktHandler    |1  |Dropping client 16 because of ping timeout 19 0 0
+2019-01-12 18:14:58.600921|INFO    |PktHandler    |1  |Dropping client 21 because of ping timeout 19 0 0
+2019-01-12 18:16:56.800293|INFO    |PktHandler    |1  |Dropping client 22 because of ping timeout 19 0 0
+2019-01-12 19:12:02.329563|INFO    |PktHandler    |1  |Dropping client 23 because of ping timeout 19 0 0
+2019-01-12 19:23:22.511213|INFO    |PktHandler    |1  |Dropping client 1 because of ping timeout 19 0 0
+2019-01-13 03:04:40.703388|INFO    |PktHandler    |1  |Dropping client 2 because of ping timeout 19 0 0
