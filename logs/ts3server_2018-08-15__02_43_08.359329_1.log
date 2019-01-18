@@ -1170,3 +1170,13 @@
 2019-01-16 14:30:21.473179|INFO    |PktHandler    |1  |Dropping client 2 because of ping timeout 19 0 0
 2019-01-16 18:49:48.472550|INFO    |PktHandler    |1  |Cleaning up connection because of 13 resends of COMMAND packet
 2019-01-16 18:49:48.545293|INFO    |PktHandler    |1  |Dropping client 6 because of resend timeout
+2019-01-17 03:21:16.560139|INFO    |PktHandler    |1  |Dropping client 10 because of ping timeout 19 0 0
+2019-01-17 03:21:16.701351|INFO    |PktHandler    |1  |Dropping client 23 because of ping timeout 19 0 0
+2019-01-17 05:50:43.740069|INFO    |PktHandler    |1  |Dropping client 3 because of ping timeout 19 0 0
+2019-01-17 07:51:45.377801|INFO    |PktHandler    |1  |Dropping client 4 because of ping timeout 19 0 0
+2019-01-17 10:03:23.425215|INFO    |PktHandler    |1  |Dropping client 14 because of ping timeout 19 0 0
+2019-01-17 13:08:22.184873|INFO    |VirtualServer |1  |client (id:457) was added to servergroup 'Monkas'(id:6) by client 'Ford'(id:454)
+2019-01-17 16:41:10.112202|INFO    |PktHandler    |1  |Dropping client 10 because of ping timeout 19 0 0
+2019-01-18 03:07:30.989970|INFO    |PktHandler    |1  |Dropping client 1 because of ping timeout 19 0 0
+2019-01-18 03:07:30.991628|INFO    |PktHandler    |1  |Dropping client 18 because of ping timeout 19 0 0
+2019-01-18 03:15:31.928921|INFO    |PktHandler    |1  |Dropping client 5 because of ping timeout 19 0 0
