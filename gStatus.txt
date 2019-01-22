@@ -2690,3 +2690,40 @@ Changes not staged for commit:
 	modified:   ts3server.sqlitedb-wal
 
 no changes added to commit (use "git add" and/or "git commit -a")
+Tue Jan 22 15:19:01 +07 2019
+# On branch 3.3.0
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   gStatus.txt
+#	modified:   ts3server.pid
+#	modified:   ts3server.sqlitedb-shm
+#	modified:   ts3server.sqlitedb-wal
+#
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	logs/ts3server_2019-01-22__08_16_42.703121_0.log
+#	logs/ts3server_2019-01-22__08_16_42.703121_1.log
+no changes added to commit (use "git add" and/or "git commit -a")
+Tue Jan 22 15:20:32 +07 2019
+# On branch 3.3.0
+# Changes to be committed:
+#   (use "git reset HEAD <file>..." to unstage)
+#
+#	modified:   backup-status.txt
+#	modified:   gStatus.txt
+#	new file:   logs/ts3server_2019-01-22__08_16_42.703121_0.log
+#	new file:   logs/ts3server_2019-01-22__08_16_42.703121_1.log
+#	modified:   ts3server.pid
+#	modified:   ts3server.sqlitedb-shm
+#	modified:   ts3server.sqlitedb-wal
+#
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   gStatus.txt
+#	modified:   ts3server.sqlitedb-shm
+#
