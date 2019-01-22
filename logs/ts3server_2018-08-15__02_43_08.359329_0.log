@@ -24145,3 +24145,17 @@
 2019-01-21 17:36:32.803050|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_913662668": No such file or directory
 2019-01-21 17:57:32.493232|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_871106730": No such file or directory
 2019-01-22 02:44:01.577037|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2019-01-22 03:46:30.003402|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_345037176": No such file or directory
+2019-01-22 03:46:30.025619|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_1297365456": No such file or directory
+2019-01-22 03:46:30.372141|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3417122722": No such file or directory
+2019-01-22 03:46:30.373073|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_913662668": No such file or directory
+2019-01-22 03:46:30.378184|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_95679974": No such file or directory
+2019-01-22 03:46:30.405906|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_871106730": No such file or directory
+2019-01-22 03:46:30.406661|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_916649827": No such file or directory
+2019-01-22 07:51:15.598195|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_345037176": No such file or directory
+2019-01-22 07:51:15.629185|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3417122722": No such file or directory
+2019-01-22 07:51:15.629282|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_1297365456": No such file or directory
+2019-01-22 07:51:15.629301|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_913662668": No such file or directory
+2019-01-22 07:51:15.629316|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_95679974": No such file or directory
+2019-01-22 07:51:20.629308|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_871106730": No such file or directory
+2019-01-22 07:51:20.630533|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_916649827": No such file or directory
