@@ -1,3 +1,9 @@
 ﻿2019-01-22 08:16:44.312932|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987, [::]:9987
 2019-01-22 12:30:38.514768|INFO    |VirtualServer |1  |client (id:456) was added to servergroup 'Monkas'(id:6) by client 'Jom'(id:9)
 2019-01-22 14:19:58.583289|INFO    |PktHandler    |1  |Dropping client 12 because of ping timeout 19 0 0
+2019-01-23 13:00:02.699631|INFO    |PktHandler    |1  |Dropping client 16 because of ping timeout 19 0 0
+2019-01-23 13:07:57.279876|INFO    |PktHandler    |1  |Dropping client 15 because of ping timeout 19 0 0
+2019-01-23 13:11:18.540179|INFO    |PktHandler    |1  |Dropping client 18 because of ping timeout 19 0 0
+2019-01-23 13:42:26.771223|INFO    |PktHandler    |1  |Dropping client 2 because of ping timeout 19 0 0
+2019-01-23 15:29:13.606318|INFO    |PktHandler    |1  |Dropping client 20 because of ping timeout 19 0 0
+2019-01-23 16:42:55.383231|INFO    |PktHandler    |1  |Dropping client 8 because of ping timeout 19 0 0
