@@ -25,3 +25,6 @@
 2019-01-27 01:37:47.482708|INFO    |PktHandler    |1  |Dropping client 19 because of ping timeout 19 0 0
 2019-01-27 06:50:05.270457|INFO    |PktHandler    |1  |Dropping client 5 because of ping timeout 19 0 0
 2019-01-28 06:21:02.147063|INFO    |PktHandler    |1  |Dropping client 3 because of ping timeout 19 0 0
+2019-01-28 15:14:07.188881|INFO    |VirtualServer |1  |client (id:460) was added to servergroup 'Antipass'(id:9) by client 'Lüthièn'(id:16)
+2019-01-29 06:21:12.836799|INFO    |PktHandler    |1  |Dropping client 6 because of ping timeout 19 0 0
+2019-01-29 06:51:08.994699|INFO    |PktHandler    |1  |Dropping client 2 because of ping timeout 19 0 0
