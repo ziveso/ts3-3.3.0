@@ -50,3 +50,8 @@
 2019-02-02 20:10:39.952030|INFO    |PktHandler    |1  |Dropping client 9 because of ping timeout 19 0 0
 2019-02-03 06:53:49.756743|INFO    |PktHandler    |1  |Dropping client 3 because of ping timeout 19 0 0
 2019-02-03 10:17:10.124178|INFO    |PktHandler    |1  |Dropping client 10 because of ping timeout 19 0 0
+2019-02-04 10:12:35.533388|INFO    |PktHandler    |1  |Dropping client 7 because of ping timeout 19 0 0
+2019-02-04 12:09:47.369125|INFO    |VirtualServer |1  |client 'ZivesO'(id:468) was added to channelgroup 'Channel Admin'(id:5) by client 'Jom'(id:9) in channel 'Watching anime'(id:9)
+2019-02-04 12:09:50.213249|INFO    |VirtualServer |1  |client (id:468) was added to servergroup 'Monkas'(id:6) by client 'Jom'(id:9)
+2019-02-04 16:04:06.085887|INFO    |PktHandler    |1  |Dropping client 21 because of ping timeout 19 0 0
+2019-02-05 05:50:55.024092|INFO    |PktHandler    |1  |Dropping client 12 because of ping timeout 19 0 0
