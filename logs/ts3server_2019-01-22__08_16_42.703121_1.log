@@ -60,3 +60,9 @@
 2019-02-05 12:23:52.040910|INFO    |PktHandler    |1  |Dropping client 14 because of ping timeout 19 0 0
 2019-02-05 14:37:30.599737|INFO    |PktHandler    |1  |Dropping client 25 because of ping timeout 19 0 0
 2019-02-06 06:55:26.676979|INFO    |PktHandler    |1  |Dropping client 3 because of ping timeout 19 0 0
+2019-02-06 10:59:54.185724|INFO    |PktHandler    |1  |Dropping client 8 because of ping timeout 19 0 0
+2019-02-06 11:07:50.879773|INFO    |PktHandler    |1  |Dropping client 15 because of ping timeout 19 0 0
+2019-02-06 12:46:09.635840|INFO    |PktHandler    |1  |Cleaning up connection because of 14 resends of COMMAND packet
+2019-02-06 12:46:09.635939|INFO    |PktHandler    |1  |Dropping client 20 because of resend timeout
+2019-02-06 20:34:03.678041|INFO    |PktHandler    |1  |Dropping client 6 because of ping timeout 19 0 0
+2019-02-07 06:23:00.487331|INFO    |PktHandler    |1  |Dropping client 6 because of ping timeout 19 0 0
