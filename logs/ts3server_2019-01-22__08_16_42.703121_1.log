@@ -326,3 +326,13 @@
 2019-02-12 00:21:24.167149|INFO    |PktHandler    |1  |Dropping client 9 because of ping timeout 19 0 0
 2019-02-12 00:23:28.298274|INFO    |PktHandler    |1  |Dropping client 1 because of ping timeout 19 0 0
 2019-02-12 02:18:47.162997|INFO    |PktHandler    |1  |Dropping client 2 because of ping timeout 19 0 0
+2019-02-12 12:25:54.502852|INFO    |PktHandler    |1  |Dropping client 12 because of ping timeout 19 0 0
+2019-02-12 12:32:37.006559|INFO    |PktHandler    |1  |Dropping client 18 because of ping timeout 19 0 0
+2019-02-12 13:03:09.750781|INFO    |VirtualServer |1  |client (id:478) was added to servergroup 'Monkas'(id:6) by client 'MuffinnnZzzz'(id:446)
+2019-02-12 16:11:31.390941|INFO    |PktHandler    |1  |Dropping client 23 because of ping timeout 19 0 0
+2019-02-12 17:00:09.085360|INFO    |PktHandler    |1  |Dropping client 36 because of ping timeout 19 0 0
+2019-02-12 17:22:03.698834|INFO    |PktHandler    |1  |Dropping client 28 because of ping timeout 19 0 0
+2019-02-12 17:52:35.940968|INFO    |PktHandler    |1  |Dropping client 1 because of ping timeout 19 0 0
+2019-02-12 18:53:08.347837|INFO    |PktHandler    |1  |Dropping client 13 because of ping timeout 19 0 0
+2019-02-13 05:14:08.076974|INFO    |PktHandler    |1  |Dropping client 15 because of ping timeout 19 0 0
+2019-02-13 06:59:13.417675|INFO    |PktHandler    |1  |Dropping client 1 because of ping timeout 19 0 0
