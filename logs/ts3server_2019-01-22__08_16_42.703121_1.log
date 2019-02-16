@@ -345,3 +345,14 @@
 2019-02-14 13:29:54.267341|INFO    |PktHandler    |1  |Dropping client 15 because of ping timeout 19 0 0
 2019-02-14 14:51:59.358615|INFO    |PktHandler    |1  |Dropping client 16 because of ping timeout 19 0 0
 2019-02-15 05:50:41.560490|INFO    |PktHandler    |1  |Dropping client 14 because of ping timeout 19 0 0
+2019-02-15 15:04:41.679048|INFO    |PktHandler    |1  |Dropping client 14 because of ping timeout 19 0 0
+2019-02-15 15:08:40.965729|INFO    |PktHandler    |1  |Dropping client 19 because of ping timeout 19 0 0
+2019-02-15 15:15:10.447790|INFO    |PktHandler    |1  |Dropping client 20 because of ping timeout 19 0 0
+2019-02-15 15:55:10.359117|INFO    |PktHandler    |1  |Dropping client 21 because of ping timeout 19 0 0
+2019-02-15 16:44:43.890923|INFO    |PktHandler    |1  |Dropping client 26 because of ping timeout 19 0 0
+2019-02-16 04:52:56.671975|INFO    |PktHandler    |1  |Dropping client 4 because of ping timeout 19 0 0
+2019-02-16 05:51:25.868268|INFO    |PktHandler    |1  |Dropping client 10 because of ping timeout 19 0 0
+2019-02-16 07:00:48.837958|INFO    |PktHandler    |1  |Dropping client 3 because of ping timeout 19 0 0
+2019-02-16 07:20:49.453887|INFO    |VirtualServer |1  |client 'Jom'(id:9) was added to channelgroup 'Channel Admin'(id:5) by client 'Poนด์'(id:7) in channel 'я๐๐м :: Jimmy'(id:22)
+2019-02-16 07:20:49.454217|INFO    |VirtualServer |1  |client 'MuffinnnZzzz'(id:446) was added to channelgroup 'Guest'(id:8) by client 'Poนด์'(id:7) in channel 'я๐๐м :: Jimmy'(id:22)
+2019-02-16 07:21:20.342733|INFO    |VirtualServer |1  |client 'Jom'(id:9) was added to channelgroup 'Channel Admin'(id:5) by client 'Poนด์'(id:7) in channel 'я๐๐м :: Jimmy'(id:22)
