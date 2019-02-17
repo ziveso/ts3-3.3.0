@@ -356,3 +356,14 @@
 2019-02-16 07:20:49.453887|INFO    |VirtualServer |1  |client 'Jom'(id:9) was added to channelgroup 'Channel Admin'(id:5) by client 'Poนด์'(id:7) in channel 'я๐๐м :: Jimmy'(id:22)
 2019-02-16 07:20:49.454217|INFO    |VirtualServer |1  |client 'MuffinnnZzzz'(id:446) was added to channelgroup 'Guest'(id:8) by client 'Poนด์'(id:7) in channel 'я๐๐м :: Jimmy'(id:22)
 2019-02-16 07:21:20.342733|INFO    |VirtualServer |1  |client 'Jom'(id:9) was added to channelgroup 'Channel Admin'(id:5) by client 'Poนด์'(id:7) in channel 'я๐๐м :: Jimmy'(id:22)
+2019-02-16 10:56:13.973099|INFO    |PktHandler    |1  |Dropping client 25 because of ping timeout 19 0 0
+2019-02-16 12:33:18.134066|INFO    |PktHandler    |1  |Dropping client 4 because of ping timeout 19 0 0
+2019-02-16 14:14:39.470872|INFO    |PktHandler    |1  |Dropping client 1 because of ping timeout 19 0 0
+2019-02-16 15:31:54.072005|INFO    |PktHandler    |1  |Dropping client 18 because of ping timeout 19 0 0
+2019-02-16 15:33:02.153903|INFO    |PktHandler    |1  |Dropping client 21 because of ping timeout 19 0 0
+2019-02-16 15:34:14.644489|INFO    |PktHandler    |1  |Cleaning up connection because of 10 resends of COMMAND packet
+2019-02-16 15:34:46.282368|INFO    |PktHandler    |1  |Dropping client 23 because of ping timeout 19 0 0
+2019-02-17 04:16:09.415667|INFO    |PktHandler    |1  |Dropping client 2 because of ping timeout 19 0 0
+2019-02-17 05:51:01.273078|INFO    |PktHandler    |1  |Dropping client 7 because of ping timeout 19 0 0
+2019-02-17 06:42:38.027337|INFO    |PktHandler    |1  |Dropping client 8 because of ping timeout 19 0 0
+2019-02-17 07:01:21.418558|INFO    |PktHandler    |1  |Dropping client 3 because of ping timeout 19 0 0
