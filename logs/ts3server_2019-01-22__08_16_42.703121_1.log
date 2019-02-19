@@ -370,3 +370,10 @@
 2019-02-17 10:09:13.751865|INFO    |PktHandler    |1  |Dropping client 3 because of ping timeout 19 0 0
 2019-02-18 02:43:18.465922|INFO    |PktHandler    |1  |Dropping client 5 because of ping timeout 19 0 0
 2019-02-18 07:55:44.672152|INFO    |PktHandler    |1  |Dropping client 5 because of ping timeout 19 0 0
+2019-02-18 09:13:02.953929|INFO    |PktHandler    |1  |Dropping client 3 because of ping timeout 19 0 0
+2019-02-18 10:24:58.040034|INFO    |PktHandler    |1  |Dropping client 7 because of ping timeout 19 0 0
+2019-02-18 12:46:14.000248|INFO    |PktHandler    |1  |Dropping client 14 because of ping timeout 19 0 0
+2019-02-18 20:38:32.823511|INFO    |PktHandler    |1  |Dropping client 8 because of ping timeout 19 0 0
+2019-02-19 02:43:29.145370|INFO    |PktHandler    |1  |Dropping client 1 because of ping timeout 19 0 0
+2019-02-19 06:49:38.714563|INFO    |PktHandler    |1  |Dropping client 12 because of ping timeout 19 0 0
+2019-02-19 07:02:24.658903|INFO    |PktHandler    |1  |Dropping client 7 because of ping timeout 19 0 0
