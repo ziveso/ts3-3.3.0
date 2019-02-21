@@ -380,3 +380,7 @@
 2019-02-19 11:18:23.958203|INFO    |PktHandler    |1  |Cleaning up connection because of 8 resends of COMMAND packet
 2019-02-19 11:18:23.958275|INFO    |PktHandler    |1  |Dropping client 4 because of resend timeout
 2019-02-19 12:34:53.917213|INFO    |PktHandler    |1  |Dropping client 7 because of ping timeout 19 0 0
+2019-02-20 10:16:04.279020|INFO    |VirtualServer |1  |client (id:487) was added to servergroup 'Monkas'(id:6) by client 'MuffinnnZzzz'(id:446)
+2019-02-20 10:48:07.732295|INFO    |VirtualServer |1  |client (id:488) was added to servergroup 'Antipass'(id:9) by client 'MuffinnnZzzz'(id:446)
+2019-02-20 14:13:31.977769|INFO    |PktHandler    |1  |Dropping client 8 because of ping timeout 19 0 0
+2019-02-20 20:06:01.765199|INFO    |PktHandler    |1  |Dropping client 4 because of ping timeout 19 0 0
