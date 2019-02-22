@@ -384,3 +384,9 @@
 2019-02-20 10:48:07.732295|INFO    |VirtualServer |1  |client (id:488) was added to servergroup 'Antipass'(id:9) by client 'MuffinnnZzzz'(id:446)
 2019-02-20 14:13:31.977769|INFO    |PktHandler    |1  |Dropping client 8 because of ping timeout 19 0 0
 2019-02-20 20:06:01.765199|INFO    |PktHandler    |1  |Dropping client 4 because of ping timeout 19 0 0
+2019-02-21 15:36:44.414421|INFO    |PktHandler    |1  |Dropping client 6 because of ping timeout 19 0 0
+2019-02-21 15:45:26.986145|INFO    |PktHandler    |1  |Dropping client 4 because of ping timeout 19 0 0
+2019-02-21 22:39:16.982257|INFO    |PktHandler    |1  |Dropping client 12 because of ping timeout 19 0 0
+2019-02-22 06:40:59.926371|INFO    |PktHandler    |1  |Dropping client 1 because of ping timeout 19 0 0
+2019-02-22 06:50:53.623205|INFO    |PktHandler    |1  |Dropping client 2 because of ping timeout 19 0 0
+2019-02-22 07:04:48.590909|INFO    |PktHandler    |1  |Dropping client 3 because of ping timeout 19 0 0
