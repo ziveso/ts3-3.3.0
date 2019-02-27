@@ -421,3 +421,14 @@
 2019-02-25 14:53:08.723509|INFO    |PktHandler    |1  |Dropping client 3 because of resend timeout
 2019-02-25 16:05:38.011267|INFO    |PktHandler    |1  |Dropping client 19 because of ping timeout 19 0 0
 2019-02-25 19:10:07.298430|INFO    |PktHandler    |1  |Dropping client 16 because of ping timeout 19 0 0
+2019-02-26 08:46:32.476219|INFO    |PktHandler    |1  |Dropping client 9 because of ping timeout 19 0 0
+2019-02-26 15:46:16.322300|INFO    |PktHandler    |1  |Dropping client 7 because of ping timeout 19 0 0
+2019-02-26 17:28:01.714056|INFO    |PktHandler    |1  |Dropping client 2 because of ping timeout 19 0 0
+2019-02-26 22:22:53.295218|INFO    |PktHandler    |1  |Dropping client 23 because of ping timeout 19 0 0
+2019-02-27 07:06:42.068420|INFO    |PktHandler    |1  |Dropping client 9 because of ping timeout 19 0 0
+2019-02-27 07:59:45.702221|INFO    |PktHandler    |1  |Dropping client 8 because of ping timeout 19 0 0
+2019-02-27 07:59:46.705178|INFO    |PktHandler    |1  |Dropping client 3 because of ping timeout 19 0 0
+2019-02-27 07:59:46.705472|INFO    |PktHandler    |1  |Dropping client 27 because of ping timeout 19 0 0
+2019-02-27 08:14:27.825231|INFO    |PktHandler    |1  |Dropping client 13 because of ping timeout 19 0 0
+2019-02-27 08:14:27.825600|INFO    |PktHandler    |1  |Dropping client 15 because of ping timeout 19 0 0
+2019-02-27 08:14:29.828669|INFO    |PktHandler    |1  |Dropping client 16 because of ping timeout 19 0 0
