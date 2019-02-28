@@ -432,3 +432,11 @@
 2019-02-27 08:14:27.825231|INFO    |PktHandler    |1  |Dropping client 13 because of ping timeout 19 0 0
 2019-02-27 08:14:27.825600|INFO    |PktHandler    |1  |Dropping client 15 because of ping timeout 19 0 0
 2019-02-27 08:14:29.828669|INFO    |PktHandler    |1  |Dropping client 16 because of ping timeout 19 0 0
+2019-02-27 08:29:17.035650|INFO    |PktHandler    |1  |Dropping client 4 because of ping timeout 19 0 0
+2019-02-27 14:04:14.372968|INFO    |VirtualServer |1  |client (id:492) was added to servergroup 'Monkas'(id:6) by client 'Ford'(id:454)
+2019-02-27 14:04:37.993463|INFO    |VirtualServer |1  |client (id:9) was removed from servergroup 'Monkas'(id:6) by client 'Ford'(id:454)
+2019-02-27 14:04:48.888652|INFO    |VirtualServer |1  |client (id:9) was added to servergroup 'Monkas'(id:6) by client 'Ford'(id:454)
+2019-02-27 17:28:59.919893|INFO    |PktHandler    |1  |Dropping client 19 because of ping timeout 19 0 0
+2019-02-28 03:03:16.877949|INFO    |PktHandler    |1  |Dropping client 14 because of ping timeout 19 0 0
+2019-02-28 03:36:45.161803|INFO    |PktHandler    |1  |Dropping client 10 because of ping timeout 19 0 0
+2019-02-28 04:34:05.151935|INFO    |PktHandler    |1  |Dropping client 2 because of ping timeout 19 0 0
