@@ -440,3 +440,4 @@
 2019-02-28 03:03:16.877949|INFO    |PktHandler    |1  |Dropping client 14 because of ping timeout 19 0 0
 2019-02-28 03:36:45.161803|INFO    |PktHandler    |1  |Dropping client 10 because of ping timeout 19 0 0
 2019-02-28 04:34:05.151935|INFO    |PktHandler    |1  |Dropping client 2 because of ping timeout 19 0 0
+2019-02-28 10:53:27.028214|INFO    |PktHandler    |1  |Dropping client 7 because of ping timeout 19 0 0
