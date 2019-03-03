@@ -444,3 +444,5 @@
 2019-03-01 09:53:49.145832|INFO    |PktHandler    |1  |Dropping client 6 because of ping timeout 19 0 0
 2019-03-01 20:31:47.599354|INFO    |PktHandler    |1  |Cleaning up connection because of 14 resends of COMMAND packet
 2019-03-01 20:31:47.599400|INFO    |PktHandler    |1  |Dropping client 8 because of resend timeout
+2019-03-03 07:08:51.837560|INFO    |PktHandler    |1  |Cleaning up connection because of 13 resends of COMMAND packet
+2019-03-03 07:08:51.838312|INFO    |PktHandler    |1  |Dropping client 2 because of resend timeout
