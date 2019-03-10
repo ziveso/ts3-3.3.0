@@ -483,3 +483,13 @@
 2019-03-07 09:39:09.381943|INFO    |PktHandler    |1  |Dropping client 12 because of ping timeout 19 0 0
 2019-03-08 06:15:50.835817|INFO    |PktHandler    |1  |Dropping client 1 because of ping timeout 19 0 0
 2019-03-08 11:47:56.809508|INFO    |PktHandler    |1  |Dropping client 9 because of ping timeout 19 0 0
+2019-03-09 09:40:11.742742|INFO    |PktHandler    |1  |Dropping client 11 because of ping timeout 19 0 0
+2019-03-09 11:26:27.955076|INFO    |PktHandler    |1  |Dropping client 14 because of ping timeout 19 0 0
+2019-03-09 11:33:12.462501|INFO    |PktHandler    |1  |Dropping client 15 because of ping timeout 19 0 0
+2019-03-09 12:11:20.359671|INFO    |PktHandler    |1  |Dropping client 16 because of ping timeout 19 0 0
+2019-03-09 18:32:52.097726|INFO    |PktHandler    |1  |Cleaning up connection because of 9 resends of COMMAND packet
+2019-03-09 20:49:28.112972|INFO    |PktHandler    |1  |Dropping client 2 because of ping timeout 19 0 0
+2019-03-10 04:31:25.220294|INFO    |PktHandler    |1  |Dropping client 6 because of ping timeout 19 0 0
+2019-03-10 05:50:44.960247|INFO    |PktHandler    |1  |Dropping client 5 because of ping timeout 19 0 0
+2019-03-10 06:40:06.461723|INFO    |PktHandler    |1  |Dropping client 2 because of ping timeout 19 0 0
+2019-03-10 07:11:18.748776|INFO    |PktHandler    |1  |Dropping client 9 because of ping timeout 19 0 0
