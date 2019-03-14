@@ -503,3 +503,5 @@
 2019-03-11 12:27:26.348861|INFO    |PktHandler    |1  |Dropping client 15 because of ping timeout 19 0 0
 2019-03-11 13:19:11.127357|INFO    |PktHandler    |1  |Dropping client 23 because of ping timeout 19 0 0
 2019-03-13 06:15:43.989968|INFO    |PktHandler    |1  |Dropping client 3 because of ping timeout 19 0 0
+2019-03-13 10:45:35.718645|INFO    |PktHandler    |1  |Dropping client 12 because of ping timeout 19 0 0
+2019-03-13 19:15:25.327118|INFO    |PktHandler    |1  |Dropping client 2 because of ping timeout 19 0 0
