@@ -536,3 +536,7 @@
 2019-03-19 01:30:35.927406|INFO    |PktHandler    |1  |Dropping client 1 because of ping timeout 19 0 0
 2019-03-19 01:45:06.019812|INFO    |PktHandler    |1  |Dropping client 2 because of ping timeout 19 0 0
 2019-03-19 06:10:59.918943|INFO    |PktHandler    |1  |Dropping client 3 because of ping timeout 19 0 0
+2019-03-20 06:50:54.835800|INFO    |PktHandler    |1  |Dropping client 6 because of ping timeout 19 0 0
+2019-03-20 07:50:36.333605|INFO    |PktHandler    |1  |Dropping client 3 because of ping timeout 19 0 0
+2019-03-20 07:52:20.467974|INFO    |PktHandler    |1  |Dropping client 5 because of ping timeout 19 0 0
+2019-03-20 07:53:49.580184|INFO    |PktHandler    |1  |Dropping client 6 because of ping timeout 19 0 0
